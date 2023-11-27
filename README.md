@@ -21,16 +21,32 @@
 
 <div style="display: flex; justify-content: center; align-items: center;">
     <div style="margin-right: 10px;">
-        <img src="https://github.com/ccwss-maker/Research-Records/blob/master/1.Monopole%20Electromagnetic%20Gun/4.Second%20Generation%20Electromagnetic%20Gun%20PCB%20Diagram.png?raw=true" style="hight: 450px;" alt="Second Generation Electromagnetic Gun PCB Diagram">
+        <img src="https://github.com/ccwss-maker/Research-Records/blob/master/1.Monopole%20Electromagnetic%20Gun/4.Second%20Generation%20Electromagnetic%20Gun%20PCB%20Diagram.png?raw=true" alt="Second Generation Electromagnetic Gun PCB Diagram">
         <br>
         <p align="center"><strong><em>4.Second Generation Electromagnetic Gun <br> PCB Diagram</em></strong></p>
     </div>
     <div>
-        <img src="https://github.com/ccwss-maker/Research-Records/blob/master/1.Monopole%20Electromagnetic%20Gun/5.Second%20Generation%20Electromagnetic%20Gun%20Physical%20Simulation%20Diagram.png?raw=true" style="hight: 450px;" alt="Second Generation Electromagnetic Gun Physical Simulation Diagram">
+        <img src="https://github.com/ccwss-maker/Research-Records/blob/master/1.Monopole%20Electromagnetic%20Gun/5.Second%20Generation%20Electromagnetic%20Gun%20Physical%20Simulation%20Diagram.png?raw=true" alt="Second Generation Electromagnetic Gun Physical Simulation Diagram">
         <br>
         <p align="center"><strong><em>5.Second Generation Electromagnetic Gun <br> Physical Simulation Diagram</em></strong></p>
     </div>
 </div>
+
+<table>
+  <tr>
+    <td>
+        <img src="https://github.com/ccwss-maker/Research-Records/blob/master/1.Monopole%20Electromagnetic%20Gun/4.Second%20Generation%20Electromagnetic%20Gun%20PCB%20Diagram.png?raw=true" alt="Second Generation Electromagnetic Gun PCB Diagram">
+        <br>
+        <p align="center"><strong><em>4.Second Generation Electromagnetic Gun <br> PCB Diagram</em></strong></p>
+    </td>
+    <td>
+        <img src="https://github.com/ccwss-maker/Research-Records/blob/master/1.Monopole%20Electromagnetic%20Gun/5.Second%20Generation%20Electromagnetic%20Gun%20Physical%20Simulation%20Diagram.png?raw=true" alt="Second Generation Electromagnetic Gun Physical Simulation Diagram">
+        <br>
+        <p align="center"><strong><em>5.Second Generation Electromagnetic Gun <br> Physical Simulation Diagram</em></strong></p>
+    </td>
+  </tr>
+</table>
+
 
 <p align="center">
     <img src="https://github.com/ccwss-maker/Research-Records/blob/master/1.Monopole%20Electromagnetic%20Gun/6.PCB%20Designs%20for%20Electromagnetic%20Gun.jpg?raw=true" style="width: 300px;" alt="PCB Designs for Electromagnetic Gun">
