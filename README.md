@@ -2,11 +2,22 @@
 ## 1.Monopole Electromagnetic Gun
 
 <p align="center">
-    <img src="https://github.com/ccwss-maker/Research-Records/blob/master/1.Monopole%20Electromagnetic%20Gun/1.Junior%20High%20Self-made%20ZVS%20Boost%20Circuit.jpeg?raw=true" style="width: 400px;" alt="Junior High Self-made ZVS Boost Circuit">
+    <img src="https://github.com/ccwss-maker/Research-Records/blob/master/1.Monopole%20Electromagnetic%20Gun/1.Junior%20High%20Self-made%20ZVS%20Boost%20Circuit.jpeg?raw=true" style="width: 500px;" alt="Junior High Self-made ZVS Boost Circuit">
     <br>
-    <strong><em>Junior High Self-made ZVS Boost Circuit</em></strong>
+    <strong><em>1.Junior High Self-made ZVS Boost Circuit</em></strong>
 </p>
 
+<p align="center">
+    <img src="https://github.com/ccwss-maker/Research-Records/blob/master/1.Monopole%20Electromagnetic%20Gun/2.ZVS%20Boost%20Module.jpeg?raw=true" style="width: 200px;" alt="ZVS Boost Module">
+    <br>
+    <strong><em>2.ZVS Boost Module</em></strong>
+</p>
+
+<p align="center">
+    <img src="https://github.com/ccwss-maker/Research-Records/blob/master/1.Monopole%20Electromagnetic%20Gun/3.First%20Generation%20Model.jpg?raw=true" style="width: 400px;" alt="First Generation Electromagnetic Gun Model">
+    <br>
+    <strong><em>3.First Generation Electromagnetic Gun Model</em></strong>
+</p>
 
 
 ##2.Monopole Electromagnetic Gun
