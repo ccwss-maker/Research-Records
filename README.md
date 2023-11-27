@@ -210,7 +210,7 @@
     <img src="https://github.com/ccwss-maker/Research-Records/blob/master/7.Infrared%20Thermal%20Imager/1.Demonstration.gif?raw=true" style="width: 300px;" alt="Demonstration">
     </a>
     <br>
-    <p align="center"><strong><em>6.1 Demonstration </em></strong></p>
+    <p align="center"><strong><em>7.1 Demonstration </em></strong></p>
 </p>
 
 ## 8.Engineering Training Competition - Logistics Handling Cart
