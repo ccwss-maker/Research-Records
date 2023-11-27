@@ -217,7 +217,7 @@
 
 <p align="center">
     <a href="https://github.com/ccwss-maker/Research-Records/blob/master/8.Engineering%20Training%20Competition%20-%20Logistics%20Handling%20Cart/1.First%20Generation%20Model.mp4">
-    <img src="https://github.com/ccwss-maker/Research-Records/blob/master/8.Engineering%20Training%20Competition%20-%20Logistics%20Handling%20Cart/1.First%20Generation%20Model.gif?raw=true" style="width: 300px;" alt="First Generation Model">
+    <img src="https://github.com/ccwss-maker/Research-Records/blob/master/8.Engineering%20Training%20Competition%20-%20Logistics%20Handling%20Cart/1.First%20Generation%20Model.gif?raw=true" style="width: 500px;" alt="First Generation Model">
     </a>
     <br>
     <p align="center"><strong><em>8.1 First Generation Model </em></strong></p>
