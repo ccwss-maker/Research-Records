@@ -81,6 +81,7 @@
 
 ## 3.Intelligent Remote-Controlled Line-Tracking Obstacle-Avoidance Car
 
+<div align="center">
 <table>
   <tr>
     <td>
@@ -99,7 +100,7 @@
     </td>
   </tr>
 </table>
-
+</div>
 
 
 
