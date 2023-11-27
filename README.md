@@ -196,8 +196,8 @@
 ## 6.Gravity Potential Energy Car School Competition
 
 <p align="center">
-    <a href="https://github.com/ccwss-maker/Research-Records/blob/master/6.Gravity%20Potential%20Energy%20Car%20School%20Competition/1.Break%20the%20school%20record.mp4">
-    <img src="https://github.com/ccwss-maker/Research-Records/blob/master/6.Gravity%20Potential%20Energy%20Car%20School%20Competition/1.Break%20the%20school%20record.gif?raw=true" style="width: 300px;" alt="Break The School Record">
+    <a href="https://github.com/ccwss-maker/Research-Records/blob/master/6.Gravity%20Potential%20Energy%20Car%20School%20Competition/1.Break%20The%20School%20Record.mp4">
+    <img src="https://github.com/ccwss-maker/Research-Records/blob/master/6.Gravity%20Potential%20Energy%20Car%20School%20Competition/1.Break%20The%20School%20Record.gif?raw=true" style="width: 300px;" alt="Break The School Record">
     </a>
     <br>
     <p align="center"><strong><em>6.1 Break The School Record </em></strong></p>
@@ -216,8 +216,8 @@
 ## 8.Engineering Training Competition - Logistics Handling Cart
 
 <p align="center">
-    <a href="">
-    <img src="?raw=true" style="width: 300px;" alt="First Generation Model">
+    <a href="https://github.com/ccwss-maker/Research-Records/blob/master/8.Engineering%20Training%20Competition%20-%20Logistics%20Handling%20Cart/1.First%20Generation%20Model.mp4">
+    <img src="https://github.com/ccwss-maker/Research-Records/blob/master/8.Engineering%20Training%20Competition%20-%20Logistics%20Handling%20Cart/1.First%20Generation%20Model.gif?raw=true" style="width: 300px;" alt="First Generation Model">
     </a>
     <br>
     <p align="center"><strong><em>8.1 First Generation Model </em></strong></p>
