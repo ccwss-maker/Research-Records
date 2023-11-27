@@ -1,7 +1,11 @@
 # Personal Research Records
 ##1.Monopole Electromagnetic Gun
 <p align="center">
-    <img src="https://github.com/ccwss-maker/Research-Records/blob/master/1.Monopole%20Electromagnetic%20Gun/1.Junior%20High%20Self-made%20ZVS%20Boost%20Circuit.jpeg?raw=true" style="transform: rotate(-90deg);" width="400" >
+    <img src="https://github.com/ccwss-maker/Research-Records/blob/master/1.Monopole%20Electromagnetic%20Gun/1.Junior%20High%20Self-made%20ZVS%20Boost%20Circuit.jpeg?raw=true" style="width: 400px;" alt="Junior High Self-made ZVS Boost Circuit">
+    <a href="https://github.com/ccwss-maker/Research-Records/blob/master/1.Monopole%20Electromagnetic%20Gun/1.Junior%20High%20Self-made%20ZVS%20Boost%20Circuit.jpeg?raw=true" style="color: #FF0000;">
+        <br>
+        <em>Junior High Self-made ZVS Boost Circuit</em>
+    </a>
 </p>
 
 
