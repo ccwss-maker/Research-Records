@@ -196,11 +196,11 @@
 ## 6.Gravity Potential Energy Car School Competition
 
 <p align="center">
-    <a href="https://github.com/ccwss-maker/Research-Records/blob/master/5.ChiJi%20Racing%20Team%20-%20Autonomous%20Formula%20Racing%20Car/2.Automated%20Cone%20Barrel%20Tracking%20Simulation.mp4">
-    <img src="https://github.com/ccwss-maker/Research-Records/blob/master/5.ChiJi%20Racing%20Team%20-%20Autonomous%20Formula%20Racing%20Car/2.Automated%20Cone%20Barrel%20Tracking%20Simulation.gif?raw=true" style="width: 700px;" alt="Automated Cone Barrel Tracking Simulation">
+    <a href="https://github.com/ccwss-maker/Research-Records/blob/master/6.Gravity%20Potential%20Energy%20Car%20School%20Competition/Break%20the%20school%20record.mp4">
+    <img src="https://github.com/ccwss-maker/Research-Records/blob/master/6.Gravity%20Potential%20Energy%20Car%20School%20Competition/Break%20the%20school%20record.gif?raw=true" style="width: 600px;" alt="Break the school record">
     </a>
     <br>
-    <p align="center"><strong><em>5.2 Automated Cone Barrel Tracking Simulation </em></strong></p>
+    <p align="center"><strong><em>6.1 Break the school record </em></strong></p>
 </p>
 
 ##7.Monopole Electromagnetic Gun
