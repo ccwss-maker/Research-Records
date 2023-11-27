@@ -197,23 +197,32 @@
 
 <p align="center">
     <a href="https://github.com/ccwss-maker/Research-Records/blob/master/6.Gravity%20Potential%20Energy%20Car%20School%20Competition/1.Break%20the%20school%20record.mp4">
-    <img src="https://github.com/ccwss-maker/Research-Records/blob/master/6.Gravity%20Potential%20Energy%20Car%20School%20Competition/1.Break%20the%20school%20record.gif?raw=true" style="width: 300px;" alt="Break the school record">
+    <img src="https://github.com/ccwss-maker/Research-Records/blob/master/6.Gravity%20Potential%20Energy%20Car%20School%20Competition/1.Break%20the%20school%20record.gif?raw=true" style="width: 300px;" alt="Break The School Record">
     </a>
     <br>
-    <p align="center"><strong><em>6.1 Break the school record </em></strong></p>
+    <p align="center"><strong><em>6.1 Break The School Record </em></strong></p>
 </p>
 
 ## 7.Infrared Thermal Imager
 
 <p align="center">
     <a href="https://github.com/ccwss-maker/Research-Records/blob/master/7.Infrared%20Thermal%20Imager/1.Demonstration.mp4">
-    <img src="https://github.com/ccwss-maker/Research-Records/blob/master/7.Infrared%20Thermal%20Imager/1.Demonstration.gif?raw=true" style="width: 300px;" alt="Break the school record">
+    <img src="https://github.com/ccwss-maker/Research-Records/blob/master/7.Infrared%20Thermal%20Imager/1.Demonstration.gif?raw=true" style="width: 300px;" alt="Demonstration">
     </a>
     <br>
-    <p align="center"><strong><em>6.1 Break the school record </em></strong></p>
+    <p align="center"><strong><em>6.1 Demonstration </em></strong></p>
 </p>
 
 ## 8.Engineering Training Competition - Logistics Handling Cart
+
+<p align="center">
+    <a href="">
+    <img src="?raw=true" style="width: 300px;" alt="First Generation Model">
+    </a>
+    <br>
+    <p align="center"><strong><em>8.1 First Generation Model </em></strong></p>
+</p>
+
 
 
 ##9.Monopole Electromagnetic Gun
