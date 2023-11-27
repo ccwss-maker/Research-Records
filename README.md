@@ -236,14 +236,14 @@
         <tr>
             <td>
                 <a href="https://github.com/ccwss-maker/Research-Records/blob/master/8.Engineering%20Training%20Competition%20-%20Logistics%20Handling%20Cart/3.Third%20Generation%20Remote%20Control%20Test.mp4">
-                <img src="https://github.com/ccwss-maker/Research-Records/blob/master/8.Engineering%20Training%20Competition%20-%20Logistics%20Handling%20Cart/3.Third%20Generation%20Remote%20Control%20Test.gif?raw=true" alt="Third Generation Remote Control Test" width="390px" height="auto">
+                <img src="https://github.com/ccwss-maker/Research-Records/blob/master/8.Engineering%20Training%20Competition%20-%20Logistics%20Handling%20Cart/3.Third%20Generation%20Remote%20Control%20Test.gif?raw=true" alt="Third Generation Remote Control Test" width="385px" height="auto">
                 </a>
                 <br>
                 <p align="center"><strong><em>8.3 Third Generation Remote Control Test</em></strong></p>
             </td>
             <td>
                 <a href="https://github.com/ccwss-maker/Research-Records/blob/master/8.Engineering%20Training%20Competition%20-%20Logistics%20Handling%20Cart/4.Third%20Generation%20Wheel%20Set%20Tuning.mp4">
-                <img src="https://github.com/ccwss-maker/Research-Records/blob/master/8.Engineering%20Training%20Competition%20-%20Logistics%20Handling%20Cart/4.Third%20Generation%20Wheel%20Set%20Tuning.gif?raw=true" alt="Third Generation Wheel Set Tuning" width="390px" height="auto">
+                <img src="https://github.com/ccwss-maker/Research-Records/blob/master/8.Engineering%20Training%20Competition%20-%20Logistics%20Handling%20Cart/4.Third%20Generation%20Wheel%20Set%20Tuning.gif?raw=true" alt="Third Generation Wheel Set Tuning" width="385px" height="auto">
                 </a>
                 <br>
                 <p align="center"><strong><em>8.4 Third Generation Wheel Set Tuning</em></strong></p>
@@ -256,13 +256,13 @@
     <table>
         <tr>
             <td>
-                <img src="https://github.com/ccwss-maker/Research-Records/blob/master/8.Engineering%20Training%20Competition%20-%20Logistics%20Handling%20Cart/5.Fourth%20Generation%20Robotic%20Arm%20CATIA%20Model-Based%20Control%20Simulation.gif?raw=true" alt="Fourth Generation Robotic Arm CATIA Model-Based Control Simulation" width="390px" height="auto">
+                <img src="https://github.com/ccwss-maker/Research-Records/blob/master/8.Engineering%20Training%20Competition%20-%20Logistics%20Handling%20Cart/5.Fourth%20Generation%20Robotic%20Arm%20CATIA%20Model-Based%20Control%20Simulation.gif?raw=true" alt="Fourth Generation Robotic Arm CATIA Model-Based Control Simulation" width="385px" height="auto">
                 <br>
                 <p align="center"><strong><em>8.5 Fourth Generation Robotic Arm <br> CATIA Model-Based Control Simulation</em></strong></p>
             </td>
             <td>
                 <a href="https://github.com/ccwss-maker/Research-Records/blob/master/8.Engineering%20Training%20Competition%20-%20Logistics%20Handling%20Cart/6.Fourth%20Generation%20Robotic%20Arm%20Range%20of%20Motion%20Modeling.mp4">
-                <img src="https://github.com/ccwss-maker/Research-Records/blob/master/8.Engineering%20Training%20Competition%20-%20Logistics%20Handling%20Cart/6.Fourth%20Generation%20Robotic%20Arm%20Range%20of%20Motion%20Modeling.gif?raw=true" alt="Fourth Generation Robotic Arm Range of Motion Modeling" width="390px" height="auto">
+                <img src="https://github.com/ccwss-maker/Research-Records/blob/master/8.Engineering%20Training%20Competition%20-%20Logistics%20Handling%20Cart/6.Fourth%20Generation%20Robotic%20Arm%20Range%20of%20Motion%20Modeling.gif?raw=true" alt="Fourth Generation Robotic Arm Range of Motion Modeling" width="385px" height="auto">
                 </a>
                 <br>
                 <p align="center"><strong><em>8.6 Fourth Generation Robotic Arm <br> Range of Motion Modeling</em></strong></p>
