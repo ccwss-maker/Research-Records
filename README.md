@@ -294,7 +294,7 @@
 
 <p align="center">
     <a href="https://github.com/ccwss-maker/Research-Records/blob/master/8.Engineering%20Training%20Competition%20-%20Logistics%20Handling%20Cart/9.Fourth%20Generation%20Material%20Handling%20Demonstration.mp4">
-    <img src="https://github.com/ccwss-maker/Research-Records/blob/master/8.Engineering%20Training%20Competition%20-%20Logistics%20Handling%20Cart/9.Fourth%20Generation%20Material%20Handling%20Demonstration.gif?raw=true" alt="Fourth Generation Material Handling Demonstration" height="300px">
+    <img src="https://github.com/ccwss-maker/Research-Records/blob/master/8.Engineering%20Training%20Competition%20-%20Logistics%20Handling%20Cart/9.Fourth%20Generation%20Material%20Handling%20Demonstration.gif?raw=true" alt="Fourth Generation Material Handling Demonstration" height="400px">
     </a>
     <br>
     <p align="center"><strong><em>8.9 Fourth Generation Material Handling <br> Demonstration</em></strong></p>
