@@ -203,7 +203,9 @@
     <p align="center"><strong><em>6.1 Break the school record </em></strong></p>
 </p>
 
-##7.Monopole Electromagnetic Gun
+## 7.Infrared Thermal Imager
+
+
 ##8.Monopole Electromagnetic Gun
 ##9.Monopole Electromagnetic Gun
 ##10.Monopole Electromagnetic Gun
