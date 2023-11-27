@@ -155,12 +155,12 @@
     <table>
         <tr>
             <td>
-                <img src="https://github.com/ccwss-maker/Research-Records/blob/master/3.Intelligent%20Remote-Controlled%20Line-Tracking%20Obstacle-Avoidance%20Car/5.Second%20Generation%20Remote%20Control%20PCB%20Diagram.png?raw=true" alt="Negative" width="500px" height="auto">
+                <img src="https://github.com/ccwss-maker/Research-Records/blob/master/4.OpenCV%20Image%20Processing/1.Negative%20Restored%20To%20Original%20Image/Negative.jpg?raw=true" alt="Negative" width="500px" height="auto">
                 <br>
                 <p align="center"><strong><em>Negative</em></strong></p>
             </td>
             <td>
-                <img src="https://github.com/ccwss-maker/Research-Records/blob/master/3.Intelligent%20Remote-Controlled%20Line-Tracking%20Obstacle-Avoidance%20Car/6.Second%20Generation%20Remote%20Control%20Physical%20Simulation%20Diagram.png?raw=true" alt="Original Image" width="500px" height="auto">
+                <img src="https://github.com/ccwss-maker/Research-Records/blob/master/4.OpenCV%20Image%20Processing/1.Negative%20Restored%20To%20Original%20Image/Original%20Image.jpg?raw=true" alt="Original Image" width="500px" height="auto">
                 <br>
                 <p align="center"><strong><em>Original Image</em></strong></p>
             </td>
@@ -168,6 +168,13 @@
     </table>
     <p align="center"><strong><em>4.1 Negative Restored To Original Image</em></strong></p>
 </div>
+
+<p align="center">
+    <img src="https://github.com/ccwss-maker/Research-Records/blob/master/4.OpenCV%20Image%20Processing/2.Spinal%20Curvature%20Measurement%20Program%20Demonstration.jpeg?raw=true" style="width: 900px;" alt="Spinal Curvature Measurement Program Demonstration">
+    <br>
+    <p align="center"><strong><em>4.2 Spinal Curvature Measurement Program <br> Demonstration</em></strong></p>
+</p>
+
 ##5.Monopole Electromagnetic Gun
 ##6.Monopole Electromagnetic Gun
 ##7.Monopole Electromagnetic Gun
