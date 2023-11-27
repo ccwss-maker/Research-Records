@@ -207,7 +207,7 @@
 
 <p align="center">
     <a href="https://github.com/ccwss-maker/Research-Records/blob/master/7.Infrared%20Thermal%20Imager/1.Demonstration.mp4">
-    <img src="https://github.com/ccwss-maker/Research-Records/blob/master/7.Infrared%20Thermal%20Imager/1.Demonstration.gif?raw=true" style="width: 200px;" alt="Break the school record">
+    <img src="https://github.com/ccwss-maker/Research-Records/blob/master/7.Infrared%20Thermal%20Imager/1.Demonstration.gif?raw=true" style="width: 300px;" alt="Break the school record">
     </a>
     <br>
     <p align="center"><strong><em>6.1 Break the school record </em></strong></p>
