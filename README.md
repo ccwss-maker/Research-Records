@@ -4,19 +4,19 @@
 <p align="center">
     <img src="https://github.com/ccwss-maker/Research-Records/blob/master/1.Monopole%20Electromagnetic%20Gun/1.Junior%20High%20Self-made%20ZVS%20Boost%20Circuit.jpeg?raw=true" style="width: 800px;" alt="Junior High Self-made ZVS Boost Circuit">
     <br>
-    <strong><em>1.Junior High Self-made ZVS Boost Circuit</em></strong>
+    <strong><em>1.1 Junior High Self-made ZVS Boost Circuit</em></strong>
 </p>
 
 <p align="center">
     <img src="https://github.com/ccwss-maker/Research-Records/blob/master/1.Monopole%20Electromagnetic%20Gun/2.ZVS%20Boost%20Module.jpeg?raw=true" style="width: 300px;" alt="ZVS Boost Module">
     <br>
-    <strong><em>2.ZVS Boost Module</em></strong>
+    <strong><em>1.2 ZVS Boost Module</em></strong>
 </p>
 
 <p align="center">
     <img src="https://github.com/ccwss-maker/Research-Records/blob/master/1.Monopole%20Electromagnetic%20Gun/3.First%20Generation%20Electromagnetic%20Gun%20Model.jpg?raw=true" style="width: 600px;" alt="First Generation Electromagnetic Gun Model">
     <br>
-    <strong><em>3.First Generation Electromagnetic Gun Model</em></strong>
+    <strong><em>1.3 First Generation Electromagnetic Gun Model</em></strong>
 </p>
 
 <table>
@@ -24,12 +24,12 @@
     <td>
         <img src="https://github.com/ccwss-maker/Research-Records/blob/master/1.Monopole%20Electromagnetic%20Gun/4.Second%20Generation%20Electromagnetic%20Gun%20PCB%20Diagram.png?raw=true" alt="Second Generation Electromagnetic Gun PCB Diagram">
         <br>
-        <p align="center"><strong><em>4.Second Generation Electromagnetic Gun <br> PCB Diagram</em></strong></p>
+        <p align="center"><strong><em>1.4 Second Generation Electromagnetic Gun <br> PCB Diagram</em></strong></p>
     </td>
     <td>
         <img src="https://github.com/ccwss-maker/Research-Records/blob/master/1.Monopole%20Electromagnetic%20Gun/5.Second%20Generation%20Electromagnetic%20Gun%20Physical%20Simulation%20Diagram.png?raw=true" alt="Second Generation Electromagnetic Gun Physical Simulation Diagram">
         <br>
-        <p align="center"><strong><em>5.Second Generation Electromagnetic Gun <br> Physical Simulation Diagram</em></strong></p>
+        <p align="center"><strong><em>1.5 Second Generation Electromagnetic Gun <br> Physical Simulation Diagram</em></strong></p>
     </td>
   </tr>
 </table>
@@ -37,7 +37,7 @@
 <p align="center">
     <img src="https://github.com/ccwss-maker/Research-Records/blob/master/1.Monopole%20Electromagnetic%20Gun/6.PCB%20Designs%20for%20Electromagnetic%20Gun.jpg?raw=true" style="width: 400px;" alt="PCB Designs for Electromagnetic Gun">
     <br>
-    <strong><em>6.PCB Designs for Electromagnetic Gun</em></strong>
+    <strong><em>1.6 PCB Designs for Electromagnetic Gun</em></strong>
 </p>
 
 ## 2.Triode Electromagnetic Gun
@@ -46,12 +46,12 @@
     <td>
         <img src="https://github.com/ccwss-maker/Research-Records/blob/master/2.Triode%20Electromagnetic%20Gun/1.First%20Generation%20Triode%20Electromagnetic%20Gun%20PCB%20Diagram.png?raw=true" alt="First Generation Triode Electromagnetic Gun PCB Diagram">
         <br>
-        <p align="center"><strong><em>1.First Generation Triode Electromagnetic Gun <br> PCB Diagram</em></strong></p>
+        <p align="center"><strong><em>2.1 First Generation Triode Electromagnetic Gun <br> PCB Diagram</em></strong></p>
     </td>
     <td>
         <img src="https://github.com/ccwss-maker/Research-Records/blob/master/2.Triode%20Electromagnetic%20Gun/2.First%20Generation%20Triode%20Electromagnetic%20Gun%20Physical%20Simulation%20Diagram.png?raw=true" alt="First Generation Triode Electromagnetic Gun Simulation Diagram">
         <br>
-        <p align="center"><strong><em>2.First Generation Triode Electromagnetic Gun <br> Physical Simulation Diagram </em></strong></p>
+        <p align="center"><strong><em>2.2 First Generation Triode Electromagnetic Gun <br> Physical Simulation Diagram </em></strong></p>
     </td>
   </tr>
 </table>
@@ -61,7 +61,7 @@
     <img src="https://github.com/ccwss-maker/Research-Records/blob/master/2.Triode%20Electromagnetic%20Gun/3.First%20Generation%20Triode%20Electromagnetic%20Gun%20Demonstration%20Video.gif?raw=true" style="width: 900px;" alt="Junior High Self-made ZVS Boost Circuit">
     </a>
     <br>
-    <p align="center"><strong><em>3.First Generation Triode Electromagnetic Gun <br>  Demonstration Video </em></strong></p>
+    <p align="center"><strong><em>2.3 First Generation Triode Electromagnetic Gun <br>  Demonstration Video </em></strong></p>
 </p>
 
 <table>
@@ -69,18 +69,17 @@
     <td>
         <img src="https://github.com/ccwss-maker/Research-Records/blob/master/2.Triode%20Electromagnetic%20Gun/4.Second%20Generation%20Triode%20Electromagnetic%20Gun%20PCB%20Diagram.png?raw=true" alt="Second Generation Triode Electromagnetic Gun PCB Diagram">
         <br>
-        <p align="center"><strong><em>4.Second Generation Triode Electromagnetic Gun <br> PCB Diagram</em></strong></p>
+        <p align="center"><strong><em>2.4 Second Generation Triode Electromagnetic Gun <br> PCB Diagram</em></strong></p>
     </td>
     <td>
         <img src="https://github.com/ccwss-maker/Research-Records/blob/master/2.Triode%20Electromagnetic%20Gun/5.Second%20Generation%20Triode%20Electromagnetic%20Gun%20Physical%20Simulation%20Image.png?raw=true" alt="Second Generation Triode Electromagnetic Gun Simulation Diagram">
         <br>
-        <p align="center"><strong><em>5.Second Generation Triode Electromagnetic Gun <br> Physical Simulation Diagram</em></strong></p>
+        <p align="center"><strong><em>2.5 Second Generation Triode Electromagnetic Gun <br> Physical Simulation Diagram</em></strong></p>
     </td>
   </tr>
 </table>
 
-
-##3.Monopole Electromagnetic Gun
+## 3.Intelligent Remote-Controlled Line-Tracking Obstacle-Avoidance Car
 ##4.Monopole Electromagnetic Gun
 ##5.Monopole Electromagnetic Gun
 ##6.Monopole Electromagnetic Gun
