@@ -144,7 +144,7 @@
 </div>
 
 <p align="center">
-    <img src="https://github.com/ccwss-maker/Research-Records/blob/master/3.Intelligent%20Remote-Controlled%20Line-Tracking%20Obstacle-Avoidance%20Car/7.Second%20Generation%20Small%20Car%20Physical%20Diagram.png?raw=true" style="width: 900px;" alt="Second Generation Small Car Physical Diagram">
+    <img src="https://github.com/ccwss-maker/Research-Records/blob/master/3.Intelligent%20Remote-Controlled%20Line-Tracking%20Obstacle-Avoidance%20Car/7.Second%20Generation%20Small%20Car%20Physical%20Diagram.png?raw=true" style="width: 600px;" alt="Second Generation Small Car Physical Diagram">
     <br>
     <p align="center"><strong><em>3.7 Second Generation Small Car <br>   Physical Diagram </em></strong></p>
 </p>
@@ -170,7 +170,7 @@
 </div>
 
 <p align="center">
-    <img src="https://github.com/ccwss-maker/Research-Records/blob/master/4.OpenCV%20Image%20Processing/2.Spinal%20Curvature%20Measurement%20Program%20Demonstration.jpeg?raw=true" style="width: 900px;" alt="Spinal Curvature Measurement Program Demonstration">
+    <img src="https://github.com/ccwss-maker/Research-Records/blob/master/4.OpenCV%20Image%20Processing/2.Spinal%20Curvature%20Measurement%20Program%20Demonstration.jpeg?raw=true" style="width: 600px;" alt="Spinal Curvature Measurement Program Demonstration">
     <br>
     <p align="center"><strong><em>4.2 Spinal Curvature Measurement Program <br> Demonstration</em></strong></p>
 </p>
