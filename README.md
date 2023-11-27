@@ -51,10 +51,18 @@
     <td>
         <img src="https://github.com/ccwss-maker/Research-Records/blob/master/2.Triode%20Electromagnetic%20Gun/2.First%20Generation%20Triode%20Electromagnetic%20Gun%20Physical%20Simulation%20Diagram.png?raw=true" alt="First Generation Triode Electromagnetic Gun Simulation Diagram">
         <br>
-        <p align="center"><strong><em>2.First Generation Triode Electromagnetic Gun <br> Physical Simulation Diagram</em></strong></p>
+        <p align="center"><strong><em>2.First Generation Triode Electromagnetic Gun <br> Physical Simulation Diagram </em></strong></p>
     </td>
   </tr>
 </table>
+
+<p align="center">
+    <a href="https://github.com/ccwss-maker/Research-Records/blob/master/2.Triode%20Electromagnetic%20Gun/3.First%20Generation%20Triode%20Electromagnetic%20Gun%20Demonstration%20Video.mp4" style="color: #FF0000;">
+    <img src="https://github.com/ccwss-maker/Research-Records/blob/master/2.Triode%20Electromagnetic%20Gun/3.First%20Generation%20Triode%20Electromagnetic%20Gun%20Demonstration%20Video.gif?raw=true" style="width: 400px;" alt="Junior High Self-made ZVS Boost Circuit">
+    </a>
+    <br>
+    <p align="center"><strong><em>3.First Generation Triode Electromagnetic Gun <br>  Demonstration Video </em></strong></p>
+</p>
 
 <table>
   <tr>
