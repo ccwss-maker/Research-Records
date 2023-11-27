@@ -85,14 +85,14 @@
   <tr>
     <td>
         <a href="https://github.com/ccwss-maker/Research-Records/blob/master/3.Intelligent%20Remote-Controlled%20Line-Tracking%20Obstacle-Avoidance%20Car/1.First%20Generation%20Model%20Obstacle%20Avoidance%20Demonstration.mp4">
-        <img src="https://github.com/ccwss-maker/Research-Records/blob/master/3.Intelligent%20Remote-Controlled%20Line-Tracking%20Obstacle-Avoidance%20Car/1.First%20Generation%20Model%20Obstacle%20Avoidance%20Demonstration.gif?raw=true" alt="First Generation Model Obstacle Avoidance Demonstration" width="500px" height="auto">
+        <img src="https://github.com/ccwss-maker/Research-Records/blob/master/3.Intelligent%20Remote-Controlled%20Line-Tracking%20Obstacle-Avoidance%20Car/1.First%20Generation%20Model%20Obstacle%20Avoidance%20Demonstration.gif?raw=true" alt="First Generation Model Obstacle Avoidance Demonstration" width="300px" height="auto">
         </a>
         <br>
         <p align="center"><strong><em>3.1 First Generation Model <br> Obstacle Avoidance Demonstration </em></strong></p>
     </td>
     <td>
         <a href="https://github.com/ccwss-maker/Research-Records/blob/master/3.Intelligent%20Remote-Controlled%20Line-Tracking%20Obstacle-Avoidance%20Car/2.First%20Generation%20Model%20Remote%20Control%20Demonstration.mp4">
-        <img src="https://github.com/ccwss-maker/Research-Records/blob/master/3.Intelligent%20Remote-Controlled%20Line-Tracking%20Obstacle-Avoidance%20Car/2.First%20Generation%20Model%20Remote%20Control%20Demonstration.gif?raw=true" alt="First Generation Model Remote Control Demonstration" width="500px" height="auto">
+        <img src="https://github.com/ccwss-maker/Research-Records/blob/master/3.Intelligent%20Remote-Controlled%20Line-Tracking%20Obstacle-Avoidance%20Car/2.First%20Generation%20Model%20Remote%20Control%20Demonstration.gif?raw=true" alt="First Generation Model Remote Control Demonstration" width="300px" height="auto">
         </a>
         <br>
         <p align="center"><strong><em>3.2 First Generation Model <br> Remote Control Demonstration</em></strong></p>
