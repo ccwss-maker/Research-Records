@@ -57,7 +57,7 @@
 </table>
 
 <p align="center">
-    <a href="https://github.com/ccwss-maker/Research-Records/blob/master/2.Triode%20Electromagnetic%20Gun/3.First%20Generation%20Triode%20Electromagnetic%20Gun%20Demonstration%20Video.mp4" style="color: #FF0000;">
+    <a href="https://github.com/ccwss-maker/Research-Records/blob/master/2.Triode%20Electromagnetic%20Gun/3.First%20Generation%20Triode%20Electromagnetic%20Gun%20Demonstration%20Video.mp4">
     <img src="https://github.com/ccwss-maker/Research-Records/blob/master/2.Triode%20Electromagnetic%20Gun/3.First%20Generation%20Triode%20Electromagnetic%20Gun%20Demonstration%20Video.gif?raw=true" style="width: 900px;" alt="Junior High Self-made ZVS Boost Circuit">
     </a>
     <br>
@@ -80,6 +80,33 @@
 </table>
 
 ## 3.Intelligent Remote-Controlled Line-Tracking Obstacle-Avoidance Car
+
+<table>
+  <tr>
+    <td>
+        <a href="https://github.com/ccwss-maker/Research-Records/blob/master/3.Intelligent%20Remote-Controlled%20Line-Tracking%20Obstacle-Avoidance%20Car/1.First%20Generation%20Model%20Remote%20Control%20Obstacle%20Avoidance%20Demonstration.mp4">
+        <img src="https://github.com/ccwss-maker/Research-Records/blob/master/3.Intelligent%20Remote-Controlled%20Line-Tracking%20Obstacle-Avoidance%20Car/1.First%20Generation%20Model%20Remote%20Control%20Obstacle%20Avoidance%20Demonstration.gif?raw=true" alt="First Generation Model Remote Control Obstacle Avoidance Demonstration">
+        </a>
+        <br>
+        <p align="center"><strong><em>3.1 First Generation Model <br> Remote Control Obstacle Avoidance <br> Demonstration </em></strong></p>
+    </td>
+    <td>
+        <a href="https://github.com/ccwss-maker/Research-Records/blob/master/3.Intelligent%20Remote-Controlled%20Line-Tracking%20Obstacle-Avoidance%20Car/2.First%20Generation%20Model%20Remote%20Control%20Demonstration.mp4">
+        <img src="https://github.com/ccwss-maker/Research-Records/blob/master/3.Intelligent%20Remote-Controlled%20Line-Tracking%20Obstacle-Avoidance%20Car/2.First%20Generation%20Model%20Remote%20Control%20Demonstration.gif?raw=true" alt="First Generation Model Remote Control Demonstration">
+        </a>
+        <br>
+        <p align="center"><strong><em>3.2 First Generation Model <br> Remote Control <br> Demonstration<br></em></strong></p>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
 ##4.Monopole Electromagnetic Gun
 ##5.Monopole Electromagnetic Gun
 ##6.Monopole Electromagnetic Gun
@@ -93,7 +120,7 @@
 
 <p align="center">
     <img src="https://github.com/ccwss-maker/Research-Records/blob/master/1.Monopole%20Electromagnetic%20Gun/1.Junior%20High%20Self-made%20ZVS%20Boost%20Circuit.jpeg?raw=true" style="width: 400px;" alt="Junior High Self-made ZVS Boost Circuit">
-    <a href="https://github.com/ccwss-maker/Research-Records/blob/master/1.Monopole%20Electromagnetic%20Gun/1.Junior%20High%20Self-made%20ZVS%20Boost%20Circuit.jpeg?raw=true" style="color: #FF0000;">
+    <a href="https://github.com/ccwss-maker/Research-Records/blob/master/1.Monopole%20Electromagnetic%20Gun/1.Junior%20High%20Self-made%20ZVS%20Boost%20Circuit.jpeg?raw=true">
         <br>
         <em>Junior High Self-made ZVS Boost Circuit</em>
     </a>
