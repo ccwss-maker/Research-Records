@@ -276,14 +276,14 @@
         <tr>
             <td>
                 <a href="https://github.com/ccwss-maker/Research-Records/blob/master/8.Engineering%20Training%20Competition%20-%20Logistics%20Handling%20Cart/7.Fourth%20Generation%20Robotic%20Arm%20Remote%20Control%20Function%20Test.mp4">
-                <img src="https://github.com/ccwss-maker/Research-Records/blob/master/8.Engineering%20Training%20Competition%20-%20Logistics%20Handling%20Cart/7.Fourth%20Generation%20Robotic%20Arm%20Remote%20Control%20Function%20Test.gif?raw=true" alt="Fourth Generation Robotic Arm Remote Control Function Test" width="auto" height="300px">
+                <img src="https://github.com/ccwss-maker/Research-Records/blob/master/8.Engineering%20Training%20Competition%20-%20Logistics%20Handling%20Cart/7.Fourth%20Generation%20Robotic%20Arm%20Remote%20Control%20Function%20Test.gif?raw=true" alt="Fourth Generation Robotic Arm Remote Control Function Test" width="auto" height="400px">
                 </a>
                 <br>
                 <p align="center"><strong><em>8.7 Fourth Generation Robotic Arm <br> Remote Control Function Test</em></strong></p>
             </td>
             <td>
                 <a href="https://github.com/ccwss-maker/Research-Records/blob/master/8.Engineering%20Training%20Competition%20-%20Logistics%20Handling%20Cart/8.Fourth%20Generation%20LVGL%20Main%20Control%20Interface%20Demonstration.mp4">
-                <img src="https://github.com/ccwss-maker/Research-Records/blob/master/8.Engineering%20Training%20Competition%20-%20Logistics%20Handling%20Cart/8.Fourth%20Generation%20LVGL%20Main%20Control%20Interface%20Demonstration.gif?raw=true" alt="Fourth Generation LVGL Main Control Interface Demonstration" width="auto" height="300px">
+                <img src="https://github.com/ccwss-maker/Research-Records/blob/master/8.Engineering%20Training%20Competition%20-%20Logistics%20Handling%20Cart/8.Fourth%20Generation%20LVGL%20Main%20Control%20Interface%20Demonstration.gif?raw=true" alt="Fourth Generation LVGL Main Control Interface Demonstration" width="auto" height="400px">
                 </a>
                 <br>
                 <p align="center"><strong><em>8.8 Fourth Generation LVGL Main Control <br> Interface Demonstration</em></strong></p>
