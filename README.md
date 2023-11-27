@@ -256,16 +256,16 @@
     <table>
         <tr>
             <td>
-                <img src="https://github.com/ccwss-maker/Research-Records/blob/master/8.Engineering%20Training%20Competition%20-%20Logistics%20Handling%20Cart/5.Fourth%20Generation%20Catia%20%20Model%20Robotic%20Arm%20Control%20Simulation.gif?raw=true" alt="Fourth Generation Robotic Arm CATIA Model-Based Control Simulation" width="400px" height="auto">
+                <img src="https://github.com/ccwss-maker/Research-Records/blob/master/8.Engineering%20Training%20Competition%20-%20Logistics%20Handling%20Cart/5.Fourth%20Generation%20Robotic%20Arm%20CATIA%20Model-Based%20Control%20Simulation.gif?raw=true" alt="Fourth Generation Robotic Arm CATIA Model-Based Control Simulation" width="400px" height="auto">
                 <br>
-                <p align="center"><strong><em>8.5 Fourth Generation Robotic Arm CATIA Model-Based Control Simulation</em></strong></p>
+                <p align="center"><strong><em>8.5 Fourth Generation Robotic Arm <br> CATIA Model-Based Control Simulation</em></strong></p>
             </td>
             <td>
-                <a href="https://github.com/ccwss-maker/Research-Records/blob/master/8.Engineering%20Training%20Competition%20-%20Logistics%20Handling%20Cart/6.Fourth%20Generation%20Model%20Robotic%20Arm%20Range%20of%20Motion%20Modeling.mp4">
-                <img src="https://github.com/ccwss-maker/Research-Records/blob/master/8.Engineering%20Training%20Competition%20-%20Logistics%20Handling%20Cart/6.Fourth%20Generation%20Model%20Robotic%20Arm%20Range%20of%20Motion%20Modeling.gif?raw=true" alt="Fourth Generation Robotic Arm Range of Motion Modeling" width="400px" height="auto">
+                <a href="https://github.com/ccwss-maker/Research-Records/blob/master/8.Engineering%20Training%20Competition%20-%20Logistics%20Handling%20Cart/6.Fourth%20Generation%20Robotic%20Arm%20Range%20of%20Motion%20Modeling.mp4">
+                <img src="https://github.com/ccwss-maker/Research-Records/blob/master/8.Engineering%20Training%20Competition%20-%20Logistics%20Handling%20Cart/6.Fourth%20Generation%20Robotic%20Arm%20Range%20of%20Motion%20Modeling.gif?raw=true" alt="Fourth Generation Robotic Arm Range of Motion Modeling" width="400px" height="auto">
                 </a>
                 <br>
-                <p align="center"><strong><em>8.6 Fourth Generation Robotic Arm Range of Motion Modeling</em></strong></p>
+                <p align="center"><strong><em>8.6 Fourth Generation Robotic Arm <br> Range of Motion Modeling</em></strong></p>
             </td>
         </tr>
     </table>
