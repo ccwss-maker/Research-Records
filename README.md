@@ -271,6 +271,41 @@
     </table>
 </div>
 
+<p align="center">
+    <a href="https://github.com/ccwss-maker/Research-Records/blob/master/8.Engineering%20Training%20Competition%20-%20Logistics%20Handling%20Cart/7.Fourth%20Generation%20Model%20Robotic%20Arm%20Remote%20Control%20Function%20Test.mp4">
+    <img src="https://github.com/ccwss-maker/Research-Records/blob/master/8.Engineering%20Training%20Competition%20-%20Logistics%20Handling%20Cart/7.Fourth%20Generation%20Model%20Robotic%20Arm%20Remote%20Control%20Function%20Test.gif?raw=true" style="width: 400px;" alt="Fourth Generation Model Robotic Arm Remote Control Function Test">
+    </a>
+    <br>
+    <p align="center"><strong><em>8.7 Fourth Generation Model Robotic Arm Remote Control Function Test</em></strong></p>
+</p>
+
+<div align="center">
+    <table>
+        <tr>
+            <td>
+                <a href="https://github.com/ccwss-maker/Research-Records/blob/master/8.Engineering%20Training%20Competition%20-%20Logistics%20Handling%20Cart/8.Fourth%20Generation%20LVGL%20Main%20Control%20Interface%20Demonstration.mp4">
+                <img src="https://github.com/ccwss-maker/Research-Records/blob/master/8.Engineering%20Training%20Competition%20-%20Logistics%20Handling%20Cart/8.Fourth%20Generation%20LVGL%20Main%20Control%20Interface%20Demonstration.gif?raw=true" alt="Fourth Generation LVGL Main Control Interface Demonstration" width="385px" height="auto">
+                </a>
+                <br>
+                <p align="center"><strong><em>8.8 Fourth Generation LVGL Main Control Interface <br> Demonstration</em></strong></p>
+            </td>
+            <td>
+                <a href="https://github.com/ccwss-maker/Research-Records/blob/master/8.Engineering%20Training%20Competition%20-%20Logistics%20Handling%20Cart/9.Fourth%20Generation%20Material%20Handling%20Demonstration.mp4">
+                <img src="https://github.com/ccwss-maker/Research-Records/blob/master/8.Engineering%20Training%20Competition%20-%20Logistics%20Handling%20Cart/9.Fourth%20Generation%20Material%20Handling%20Demonstration.gif?raw=true" alt="Fourth Generation Material Handling Demonstration" width="385px" height="auto">
+                </a>
+                <br>
+                <p align="center"><strong><em>8.9 Fourth Generation Material Handling <br> Demonstration</em></strong></p>
+            </td>
+        </tr>
+    </table>
+</div>
+
+<p align="center">
+    <img src="https://github.com/ccwss-maker/Research-Records/blob/master/8.Engineering%20Training%20Competition%20-%20Logistics%20Handling%20Cart/10.Fifth%20Generation%20Master%20Control%20Module%20PCB%20(6%20layers).jpg?raw=true" style="width: 400px;" alt="10.Fifth Generation Master Control Module PCB (6 layers)">
+    <br>
+    <p align="center"><strong><em>8.10 Fifth Generation Master Control Module PCB (6 layers)</em></strong></p>
+</p>
+
 ##9.Monopole Electromagnetic Gun
 ##10.Monopole Electromagnetic Gun
 2. 第二项
