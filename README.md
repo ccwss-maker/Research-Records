@@ -213,7 +213,9 @@
     <p align="center"><strong><em>6.1 Break the school record </em></strong></p>
 </p>
 
-##8.Monopole Electromagnetic Gun
+## 8.Engineering Training Competition - Logistics Handling Cart
+
+
 ##9.Monopole Electromagnetic Gun
 ##10.Monopole Electromagnetic Gun
 2. 第二项
