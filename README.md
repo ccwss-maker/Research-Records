@@ -19,14 +19,14 @@
     <strong><em>3.First Generation Electromagnetic Gun Model</em></strong>
 </p>
 
-<table border="0" style="border:none;">
+<table>
   <tr>
-    <td style="border:none;">
+    <td>
         <img src="https://github.com/ccwss-maker/Research-Records/blob/master/1.Monopole%20Electromagnetic%20Gun/4.Second%20Generation%20Electromagnetic%20Gun%20PCB%20Diagram.png?raw=true" alt="Second Generation Electromagnetic Gun PCB Diagram">
         <br>
         <p align="center"><strong><em>4.Second Generation Electromagnetic Gun <br> PCB Diagram</em></strong></p>
     </td>
-    <td style="border:none;">
+    <td>
         <img src="https://github.com/ccwss-maker/Research-Records/blob/master/1.Monopole%20Electromagnetic%20Gun/5.Second%20Generation%20Electromagnetic%20Gun%20Physical%20Simulation%20Diagram.png?raw=true" alt="Second Generation Electromagnetic Gun Physical Simulation Diagram">
         <br>
         <p align="center"><strong><em>5.Second Generation Electromagnetic Gun <br> Physical Simulation Diagram</em></strong></p>
