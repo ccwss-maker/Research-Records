@@ -66,7 +66,7 @@
     <img src="https://github.com/ccwss-maker/Research-Records/blob/master/2.Triode%20Electromagnetic%20Gun/3.First%20Generation%20Triode%20Electromagnetic%20Gun%20Demonstration.gif?raw=true" style="width: 900px;" alt="First Generation Triode Electromagnetic Gun Demonstration ">
     </a>
     <br>
-    <p align="center"><strong><em>2.3 First Generation Triode Electromagnetic Gun <br>  Demonstration </em></strong></p>
+    <p align="center"><strong><em>2.3 First Generation Triode Electromagnetic Gun Demonstration </em></strong></p>
 </p>
 
 <div align="center">
@@ -172,7 +172,7 @@
 <p align="center">
     <img src="https://github.com/ccwss-maker/Research-Records/blob/master/4.OpenCV%20Image%20Processing/2.Spinal%20Curvature%20Measurement%20Program%20Demonstration.jpeg?raw=true" style="width: 600px;" alt="Spinal Curvature Measurement Program Demonstration">
     <br>
-    <p align="center"><strong><em>4.2 Spinal Curvature Measurement Program <br> Demonstration</em></strong></p>
+    <p align="center"><strong><em>4.2 Spinal Curvature Measurement Program Demonstration</em></strong></p>
 </p>
 
 ## 5.ChiJi Racing Team - Autonomous Formula Racing Car
@@ -206,8 +206,8 @@
 ## 7.Infrared Thermal Imager
 
 <p align="center">
-    <a href="https://github.com/ccwss-maker/Research-Records/blob/master/6.Gravity%20Potential%20Energy%20Car%20School%20Competition/1.Break%20the%20school%20record.mp4">
-    <img src="https://github.com/ccwss-maker/Research-Records/blob/master/6.Gravity%20Potential%20Energy%20Car%20School%20Competition/1.Break%20the%20school%20record.gif?raw=true" style="width: 300px;" alt="Break the school record">
+    <a href="https://github.com/ccwss-maker/Research-Records/blob/master/7.Infrared%20Thermal%20Imager/1.Demonstration.mp4">
+    <img src="https://github.com/ccwss-maker/Research-Records/blob/master/7.Infrared%20Thermal%20Imager/1.Demonstration.gif?raw=true" style="width: 200px;" alt="Break the school record">
     </a>
     <br>
     <p align="center"><strong><em>6.1 Break the school record </em></strong></p>
