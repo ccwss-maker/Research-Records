@@ -193,7 +193,16 @@
     <p align="center"><strong><em>5.2 Automated Cone Barrel Tracking Simulation </em></strong></p>
 </p>
 
-##6.Monopole Electromagnetic Gun
+## 6.Gravity Potential Energy Car School Competition
+
+<p align="center">
+    <a href="https://github.com/ccwss-maker/Research-Records/blob/master/5.ChiJi%20Racing%20Team%20-%20Autonomous%20Formula%20Racing%20Car/2.Automated%20Cone%20Barrel%20Tracking%20Simulation.mp4">
+    <img src="https://github.com/ccwss-maker/Research-Records/blob/master/5.ChiJi%20Racing%20Team%20-%20Autonomous%20Formula%20Racing%20Car/2.Automated%20Cone%20Barrel%20Tracking%20Simulation.gif?raw=true" style="width: 700px;" alt="Automated Cone Barrel Tracking Simulation">
+    </a>
+    <br>
+    <p align="center"><strong><em>5.2 Automated Cone Barrel Tracking Simulation </em></strong></p>
+</p>
+
 ##7.Monopole Electromagnetic Gun
 ##8.Monopole Electromagnetic Gun
 ##9.Monopole Electromagnetic Gun
@@ -201,11 +210,3 @@
 2. 第二项
     1. 子项2.1
    2. 子项2.2
-
-<p align="center">
-    <img src="https://github.com/ccwss-maker/Research-Records/blob/master/1.Monopole%20Electromagnetic%20Gun/1.Junior%20High%20Self-made%20ZVS%20Boost%20Circuit.jpeg?raw=true" style="width: 400px;" alt="Junior High Self-made ZVS Boost Circuit">
-    <a href="https://github.com/ccwss-maker/Research-Records/blob/master/1.Monopole%20Electromagnetic%20Gun/1.Junior%20High%20Self-made%20ZVS%20Boost%20Circuit.jpeg?raw=true">
-        <br>
-        <em>Junior High Self-made ZVS Boost Circuit</em>
-    </a>
-</p>
