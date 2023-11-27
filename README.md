@@ -22,12 +22,12 @@
 <table>
   <tr>
     <td>
-        <img src="https://github.com/ccwss-maker/Research-Records/blob/master/1.Monopole%20Electromagnetic%20Gun/4.Second%20Generation%20Electromagnetic%20Gun%20PCB%20Diagram.png?raw=true" alt="Second Generation Electromagnetic Gun PCB Diagram">
+        <img src="https://github.com/ccwss-maker/Research-Records/blob/master/1.Monopole%20Electromagnetic%20Gun/4.Second%20Generation%20Electromagnetic%20Gun%20PCB%20Diagram.png?raw=true" alt="Second Generation Electromagnetic Gun PCB Diagram"  width="500px" height="auto">
         <br>
         <p align="center"><strong><em>1.4 Second Generation Electromagnetic Gun <br> PCB Diagram</em></strong></p>
     </td>
     <td>
-        <img src="https://github.com/ccwss-maker/Research-Records/blob/master/1.Monopole%20Electromagnetic%20Gun/5.Second%20Generation%20Electromagnetic%20Gun%20Physical%20Simulation%20Diagram.png?raw=true" alt="Second Generation Electromagnetic Gun Physical Simulation Diagram">
+        <img src="https://github.com/ccwss-maker/Research-Records/blob/master/1.Monopole%20Electromagnetic%20Gun/5.Second%20Generation%20Electromagnetic%20Gun%20Physical%20Simulation%20Diagram.png?raw=true" alt="Second Generation Electromagnetic Gun Physical Simulation Diagram"  width="500px" height="auto">
         <br>
         <p align="center"><strong><em>1.5 Second Generation Electromagnetic Gun <br> Physical Simulation Diagram</em></strong></p>
     </td>
@@ -44,12 +44,12 @@
 <table>
   <tr>
     <td>
-        <img src="https://github.com/ccwss-maker/Research-Records/blob/master/2.Triode%20Electromagnetic%20Gun/1.First%20Generation%20Triode%20Electromagnetic%20Gun%20PCB%20Diagram.png?raw=true" alt="First Generation Triode Electromagnetic Gun PCB Diagram">
+        <img src="https://github.com/ccwss-maker/Research-Records/blob/master/2.Triode%20Electromagnetic%20Gun/1.First%20Generation%20Triode%20Electromagnetic%20Gun%20PCB%20Diagram.png?raw=true" alt="First Generation Triode Electromagnetic Gun PCB Diagram"  width="500px" height="auto">
         <br>
         <p align="center"><strong><em>2.1 First Generation Triode Electromagnetic Gun <br> PCB Diagram</em></strong></p>
     </td>
     <td>
-        <img src="https://github.com/ccwss-maker/Research-Records/blob/master/2.Triode%20Electromagnetic%20Gun/2.First%20Generation%20Triode%20Electromagnetic%20Gun%20Physical%20Simulation%20Diagram.png?raw=true" alt="First Generation Triode Electromagnetic Gun Simulation Diagram">
+        <img src="https://github.com/ccwss-maker/Research-Records/blob/master/2.Triode%20Electromagnetic%20Gun/2.First%20Generation%20Triode%20Electromagnetic%20Gun%20Physical%20Simulation%20Diagram.png?raw=true" alt="First Generation Triode Electromagnetic Gun Simulation Diagram"  width="500px" height="auto">
         <br>
         <p align="center"><strong><em>2.2 First Generation Triode Electromagnetic Gun <br> Physical Simulation Diagram </em></strong></p>
     </td>
@@ -67,12 +67,12 @@
 <table>
   <tr>
     <td>
-        <img src="https://github.com/ccwss-maker/Research-Records/blob/master/2.Triode%20Electromagnetic%20Gun/4.Second%20Generation%20Triode%20Electromagnetic%20Gun%20PCB%20Diagram.png?raw=true" alt="Second Generation Triode Electromagnetic Gun PCB Diagram">
+        <img src="https://github.com/ccwss-maker/Research-Records/blob/master/2.Triode%20Electromagnetic%20Gun/4.Second%20Generation%20Triode%20Electromagnetic%20Gun%20PCB%20Diagram.png?raw=true" alt="Second Generation Triode Electromagnetic Gun PCB Diagram"  width="500px" height="auto">
         <br>
         <p align="center"><strong><em>2.4 Second Generation Triode Electromagnetic Gun <br> PCB Diagram</em></strong></p>
     </td>
     <td>
-        <img src="https://github.com/ccwss-maker/Research-Records/blob/master/2.Triode%20Electromagnetic%20Gun/5.Second%20Generation%20Triode%20Electromagnetic%20Gun%20Physical%20Simulation%20Image.png?raw=true" alt="Second Generation Triode Electromagnetic Gun Simulation Diagram">
+        <img src="https://github.com/ccwss-maker/Research-Records/blob/master/2.Triode%20Electromagnetic%20Gun/5.Second%20Generation%20Triode%20Electromagnetic%20Gun%20Physical%20Simulation%20Image.png?raw=true" alt="Second Generation Triode Electromagnetic Gun Simulation Diagram"  width="500px" height="auto">
         <br>
         <p align="center"><strong><em>2.5 Second Generation Triode Electromagnetic Gun <br> Physical Simulation Diagram</em></strong></p>
     </td>
@@ -85,17 +85,17 @@
   <tr>
     <td>
         <a href="https://github.com/ccwss-maker/Research-Records/blob/master/3.Intelligent%20Remote-Controlled%20Line-Tracking%20Obstacle-Avoidance%20Car/1.First%20Generation%20Model%20Obstacle%20Avoidance%20Demonstration.mp4">
-        <img src="https://github.com/ccwss-maker/Research-Records/blob/master/3.Intelligent%20Remote-Controlled%20Line-Tracking%20Obstacle-Avoidance%20Car/1.First%20Generation%20Model%20Obstacle%20Avoidance%20Demonstration.gif?raw=true" alt="First Generation Model Obstacle Avoidance Demonstration" style="weight: 300px;">
+        <img src="https://github.com/ccwss-maker/Research-Records/blob/master/3.Intelligent%20Remote-Controlled%20Line-Tracking%20Obstacle-Avoidance%20Car/1.First%20Generation%20Model%20Obstacle%20Avoidance%20Demonstration.gif?raw=true" alt="First Generation Model Obstacle Avoidance Demonstration" width="500px" height="auto">
         </a>
         <br>
         <p align="center"><strong><em>3.1 First Generation Model <br> Obstacle Avoidance Demonstration </em></strong></p>
     </td>
     <td>
         <a href="https://github.com/ccwss-maker/Research-Records/blob/master/3.Intelligent%20Remote-Controlled%20Line-Tracking%20Obstacle-Avoidance%20Car/2.First%20Generation%20Model%20Remote%20Control%20Demonstration.mp4">
-        <img src="https://github.com/ccwss-maker/Research-Records/blob/master/3.Intelligent%20Remote-Controlled%20Line-Tracking%20Obstacle-Avoidance%20Car/2.First%20Generation%20Model%20Remote%20Control%20Demonstration.gif?raw=true" alt="First Generation Model Remote Control Demonstration" style="weight: 300px;">
+        <img src="https://github.com/ccwss-maker/Research-Records/blob/master/3.Intelligent%20Remote-Controlled%20Line-Tracking%20Obstacle-Avoidance%20Car/2.First%20Generation%20Model%20Remote%20Control%20Demonstration.gif?raw=true" alt="First Generation Model Remote Control Demonstration" width="500px" height="auto">
         </a>
         <br>
-        <p align="center"><strong><em>3.2 First Generation Model <br> Remote Control Demonstration<br></em></strong></p>
+        <p align="center"><strong><em>3.2 First Generation Model <br> Remote Control Demonstration</em></strong></p>
     </td>
   </tr>
 </table>
