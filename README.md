@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-    <img src="https://github.com/ccwss-maker/Research-Records/blob/master/1.Monopole%20Electromagnetic%20Gun/3.First%20Generation%20Electromagnetic%20Gun%20Model.jpg?raw=true" style="width: 750px;" alt="First Generation Electromagnetic Gun Model">
+    <img src="https://github.com/ccwss-maker/Research-Records/blob/master/1.Monopole%20Electromagnetic%20Gun/3.First%20Generation%20Electromagnetic%20Gun%20Model.jpg?raw=true" style="width: 650px;" alt="First Generation Electromagnetic Gun Model">
     <br>
     <strong><em>3.First Generation Electromagnetic Gun Model</em></strong>
 </p>
