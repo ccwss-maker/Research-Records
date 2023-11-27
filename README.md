@@ -223,7 +223,23 @@
     <p align="center"><strong><em>8.1 First Generation Model </em></strong></p>
 </p>
 
-
+<div align="center">
+    <table>
+        <tr>
+            <td>
+                <img src="https://github.com/ccwss-maker/Research-Records/blob/master/8.Engineering%20Training%20Competition%20-%20Logistics%20Handling%20Cart/2.Second%20Generation%20Wheel%20Set%20Tuning.gif?raw=true" alt="Second Generation Wheel Set Tuning" width="500px" height="auto">
+                <br>
+                <p align="center"><strong><em>8.2 Second Generation Wheel Set Tuning</em></strong></p>
+            </td>
+            <td>
+                <img src="https://github.com/ccwss-maker/Research-Records/blob/master/8.Engineering%20Training%20Competition%20-%20Logistics%20Handling%20Cart/3.Second%20Generation%20Remote%20Control%20Test%201.gif?raw=true" alt="Original Image" width="500px" height="auto">
+                <br>
+                <p align="center"><strong><em>Original Image</em></strong></p>
+            </td>
+        </tr>
+    </table>
+    <p align="center"><strong><em>4.1 Negative Restored To Original Image</em></strong></p>
+</div>
 
 ##9.Monopole Electromagnetic Gun
 ##10.Monopole Electromagnetic Gun
