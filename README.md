@@ -26,14 +26,14 @@
         <p align="center"><strong><em>4.Second Generation Electromagnetic Gun <br> PCB Diagram</em></strong></p>
     </div>
     <div>
-        <img src="https://github.com/ccwss-maker/Research-Records/blob/master/1.Monopole%20Electromagnetic%20Gun/5.Second%20Generation%20Electromagnetic%20Gun%20Physical%20Simulation%20Image.png?raw=true" style="hight: 450px;" alt="Second Generation Electromagnetic Gun Physical Simulation Diagram">
+        <img src="https://github.com/ccwss-maker/Research-Records/blob/master/1.Monopole%20Electromagnetic%20Gun/5.Second%20Generation%20Electromagnetic%20Gun%20Physical%20Simulation%20Diagram.png?raw=true" style="hight: 450px;" alt="Second Generation Electromagnetic Gun Physical Simulation Diagram">
         <br>
         <p align="center"><strong><em>5.Second Generation Electromagnetic Gun <br> Physical Simulation Diagram</em></strong></p>
     </div>
 </div>
 
 <p align="center">
-    <img src="https://github.com/ccwss-maker/Research-Records/blob/master/1.Monopole%20Electromagnetic%20Gun/6.Various%20PCB%20Boards.jpg?raw=true" style="width: 300px;" alt="PCB Designs for Electromagnetic Gun">
+    <img src="https://github.com/ccwss-maker/Research-Records/blob/master/1.Monopole%20Electromagnetic%20Gun/6.PCB%20Designs%20for%20Electromagnetic%20Gun.jpg?raw=true" style="width: 300px;" alt="PCB Designs for Electromagnetic Gun">
     <br>
     <strong><em>6.PCB Designs for Electromagnetic Gun</em></strong>
 </p>
