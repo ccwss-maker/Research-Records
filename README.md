@@ -63,10 +63,10 @@
 
 <p align="center">
     <a href="https://github.com/ccwss-maker/Research-Records/blob/master/2.Triode%20Electromagnetic%20Gun/3.First%20Generation%20Triode%20Electromagnetic%20Gun%20Demonstration%20Video.mp4">
-    <img src="https://github.com/ccwss-maker/Research-Records/blob/master/2.Triode%20Electromagnetic%20Gun/3.First%20Generation%20Triode%20Electromagnetic%20Gun%20Demonstration%20Video.gif?raw=true" style="width: 900px;" alt="First Generation Triode Electromagnetic Gun Demonstration Video ">
+    <img src="https://github.com/ccwss-maker/Research-Records/blob/master/2.Triode%20Electromagnetic%20Gun/3.First%20Generation%20Triode%20Electromagnetic%20Gun%20Demonstration%20Video.gif?raw=true" style="width: 900px;" alt="First Generation Triode Electromagnetic Gun Demonstration ">
     </a>
     <br>
-    <p align="center"><strong><em>2.3 First Generation Triode Electromagnetic Gun <br>  Demonstration Video </em></strong></p>
+    <p align="center"><strong><em>2.3 First Generation Triode Electromagnetic Gun <br>  Demonstration </em></strong></p>
 </p>
 
 <div align="center">
@@ -175,7 +175,24 @@
     <p align="center"><strong><em>4.2 Spinal Curvature Measurement Program <br> Demonstration</em></strong></p>
 </p>
 
-##5.Monopole Electromagnetic Gun
+## 5.ChiJi Racing Team - Autonomous Formula Racing Car
+
+<p align="center">
+    <a href="https://github.com/ccwss-maker/Research-Records/blob/master/5.ChiJi%20Racing%20Team%20-%20Autonomous%20Formula%20Racing%20Car/1.Initial%20Program%20Testing.mp4">
+    <img src="https://github.com/ccwss-maker/Research-Records/blob/master/5.ChiJi%20Racing%20Team%20-%20Autonomous%20Formula%20Racing%20Car/1.Initial%20Program%20Testing.gif?raw=true" style="width: 600px;" alt="Initial Program Testing">
+    </a>
+    <br>
+    <p align="center"><strong><em>5.1 Initial Program Testing </em></strong></p>
+</p>
+
+<p align="center">
+    <a href="https://github.com/ccwss-maker/Research-Records/blob/master/5.ChiJi%20Racing%20Team%20-%20Autonomous%20Formula%20Racing%20Car/2.Automated%20Cone%20Barrel%20Tracking%20Simulation.mp4">
+    <img src="https://github.com/ccwss-maker/Research-Records/blob/master/5.ChiJi%20Racing%20Team%20-%20Autonomous%20Formula%20Racing%20Car/2.Automated%20Cone%20Barrel%20Tracking%20Simulation.gif?raw=true" style="width: 600px;" alt="Automated Cone Barrel Tracking Simulation">
+    </a>
+    <br>
+    <p align="center"><strong><em>5.2 Automated Cone Barrel Tracking <br> Simulation </em></strong></p>
+</p>
+
 ##6.Monopole Electromagnetic Gun
 ##7.Monopole Electromagnetic Gun
 ##8.Monopole Electromagnetic Gun
