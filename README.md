@@ -63,7 +63,7 @@
 
 <p align="center">
     <a href="https://github.com/ccwss-maker/Research-Records/blob/master/2.Triode%20Electromagnetic%20Gun/3.First%20Generation%20Triode%20Electromagnetic%20Gun%20Demonstration%20Video.mp4">
-    <img src="https://github.com/ccwss-maker/Research-Records/blob/master/2.Triode%20Electromagnetic%20Gun/3.First%20Generation%20Triode%20Electromagnetic%20Gun%20Demonstration%20Video.gif?raw=true" style="width: 900px;" alt="Junior High Self-made ZVS Boost Circuit">
+    <img src="https://github.com/ccwss-maker/Research-Records/blob/master/2.Triode%20Electromagnetic%20Gun/3.First%20Generation%20Triode%20Electromagnetic%20Gun%20Demonstration%20Video.gif?raw=true" style="width: 900px;" alt="First Generation Triode Electromagnetic Gun Demonstration Video ">
     </a>
     <br>
     <p align="center"><strong><em>2.3 First Generation Triode Electromagnetic Gun <br>  Demonstration Video </em></strong></p>
@@ -115,12 +115,12 @@
             <td>
                 <img src="https://github.com/ccwss-maker/Research-Records/blob/master/3.Intelligent%20Remote-Controlled%20Line-Tracking%20Obstacle-Avoidance%20Car/3.Second%20Generation%20Small%20Car%20Chassis%20PCB%20Diagram.png?raw=true" alt="Second Generation Small Car Chassis PCB Diagram" width="500px" height="auto">
                 <br>
-                <p align="center"><strong><em>3.3 Second Generation Small Car <br> Chassis PCB Diagram</em></strong></p>
+                <p align="center"><strong><em>3.3 Second Generation Small Car  Chassis<br> PCB Diagram</em></strong></p>
             </td>
             <td>
                 <img src="https://github.com/ccwss-maker/Research-Records/blob/master/3.Intelligent%20Remote-Controlled%20Line-Tracking%20Obstacle-Avoidance%20Car/4.Second%20Generation%20Small%20Car%20Chassis%20Physical%20Simulation%20Diagram.png?raw=true" alt="Second Generation Small Car Chassis Physical Simulation Diagram" width="500px" height="auto">
                 <br>
-                <p align="center"><strong><em>3.4 Second Generation Small Car <br> Chassis Physical Simulation Diagram</em></strong></p>
+                <p align="center"><strong><em>3.4 Second Generation Small Car  Chassis<br> Physical Simulation Diagram</em></strong></p>
             </td>
         </tr>
     </table>
@@ -143,10 +143,31 @@
     </table>
 </div>
 
+<p align="center">
+    <img src="https://github.com/ccwss-maker/Research-Records/blob/master/3.Intelligent%20Remote-Controlled%20Line-Tracking%20Obstacle-Avoidance%20Car/7.Second%20Generation%20Small%20Car%20Physical%20Diagram.png?raw=true" style="width: 900px;" alt="Second Generation Small Car Physical Diagram">
+    <br>
+    <p align="center"><strong><em>3.7 Second Generation Small Car <br>   Physical Diagram </em></strong></p>
+</p>
 
+## 4.OpenCV Image Processing
 
-
-##4.Monopole Electromagnetic Gun
+<div align="center">
+    <table>
+        <tr>
+            <td>
+                <img src="https://github.com/ccwss-maker/Research-Records/blob/master/3.Intelligent%20Remote-Controlled%20Line-Tracking%20Obstacle-Avoidance%20Car/5.Second%20Generation%20Remote%20Control%20PCB%20Diagram.png?raw=true" alt="Negative" width="500px" height="auto">
+                <br>
+                <p align="center"><strong><em>Negative</em></strong></p>
+            </td>
+            <td>
+                <img src="https://github.com/ccwss-maker/Research-Records/blob/master/3.Intelligent%20Remote-Controlled%20Line-Tracking%20Obstacle-Avoidance%20Car/6.Second%20Generation%20Remote%20Control%20Physical%20Simulation%20Diagram.png?raw=true" alt="Original Image" width="500px" height="auto">
+                <br>
+                <p align="center"><strong><em>Original Image</em></strong></p>
+            </td>
+        </tr>
+    </table>
+    <p align="center"><strong><em>4.1 Negative Restored To Original Image</em></strong></p>
+</div>
 ##5.Monopole Electromagnetic Gun
 ##6.Monopole Electromagnetic Gun
 ##7.Monopole Electromagnetic Gun
