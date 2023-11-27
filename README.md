@@ -1,10 +1,10 @@
 # Personal Research Records
-##1.Monopole Electromagnetic Gun
+## 1.Monopole Electromagnetic Gun
+
 <p align="center">
     <img src="https://github.com/ccwss-maker/Research-Records/blob/master/1.Monopole%20Electromagnetic%20Gun/1.Junior%20High%20Self-made%20ZVS%20Boost%20Circuit.jpeg?raw=true" style="width: 400px;" alt="Junior High Self-made ZVS Boost Circuit">
     <br>
-    <em>Junior High Self-made ZVS Boost Circuit</em>
-    </a>
+    <strong><em>Junior High Self-made ZVS Boost Circuit</em></strong>
 </p>
 
 
