@@ -217,7 +217,7 @@
 
 <p align="center">
     <a href="https://github.com/ccwss-maker/Research-Records/blob/master/8.Engineering%20Training%20Competition%20-%20Logistics%20Handling%20Cart/1.First%20Generation%20Model.mp4">
-    <img src="https://github.com/ccwss-maker/Research-Records/blob/master/8.Engineering%20Training%20Competition%20-%20Logistics%20Handling%20Cart/1.First%20Generation%20Model.gif?raw=true" style="width: 500px;" alt="First Generation Model">
+    <img src="https://github.com/ccwss-maker/Research-Records/blob/master/8.Engineering%20Training%20Competition%20-%20Logistics%20Handling%20Cart/1.First%20Generation%20Model.gif?raw=true" style="width: 550px;" alt="First Generation Model">
     </a>
     <br>
     <p align="center"><strong><em>8.1 First Generation Model </em></strong></p>
@@ -236,14 +236,14 @@
         <tr>
             <td>
                 <a href="https://github.com/ccwss-maker/Research-Records/blob/master/8.Engineering%20Training%20Competition%20-%20Logistics%20Handling%20Cart/3.Third%20Generation%20Remote%20Control%20Test.mp4">
-                <img src="https://github.com/ccwss-maker/Research-Records/blob/master/8.Engineering%20Training%20Competition%20-%20Logistics%20Handling%20Cart/3.Third%20Generation%20Remote%20Control%20Test.gif?raw=true" alt="Third Generation Remote Control Test" width="380px" height="auto">
+                <img src="https://github.com/ccwss-maker/Research-Records/blob/master/8.Engineering%20Training%20Competition%20-%20Logistics%20Handling%20Cart/3.Third%20Generation%20Remote%20Control%20Test.gif?raw=true" alt="Third Generation Remote Control Test" width="400px" height="auto">
                 </a>
                 <br>
                 <p align="center"><strong><em>8.3 Third Generation Remote Control Test</em></strong></p>
             </td>
             <td>
                 <a href="https://github.com/ccwss-maker/Research-Records/blob/master/8.Engineering%20Training%20Competition%20-%20Logistics%20Handling%20Cart/4.Third%20Generation%20Wheel%20Set%20Tuning.mp4">
-                <img src="https://github.com/ccwss-maker/Research-Records/blob/master/8.Engineering%20Training%20Competition%20-%20Logistics%20Handling%20Cart/4.Third%20Generation%20Wheel%20Set%20Tuning.gif?raw=true" alt="Third Generation Wheel Set Tuning" width="380px" height="auto">
+                <img src="https://github.com/ccwss-maker/Research-Records/blob/master/8.Engineering%20Training%20Competition%20-%20Logistics%20Handling%20Cart/4.Third%20Generation%20Wheel%20Set%20Tuning.gif?raw=true" alt="Third Generation Wheel Set Tuning" width="400px" height="auto">
                 </a>
                 <br>
                 <p align="center"><strong><em>8.4 Third Generation Wheel Set Tuning</em></strong></p>
@@ -257,14 +257,14 @@
         <tr>
             <td>
                 <a href="https://github.com/ccwss-maker/Research-Records/blob/master/8.Engineering%20Training%20Competition%20-%20Logistics%20Handling%20Cart/3.Third%20Generation%20Remote%20Control%20Test.mp4">
-                <img src="https://github.com/ccwss-maker/Research-Records/blob/master/8.Engineering%20Training%20Competition%20-%20Logistics%20Handling%20Cart/3.Third%20Generation%20Remote%20Control%20Test.gif?raw=true" alt="Third Generation Remote Control Test" width="500px" height="auto">
+                <img src="https://github.com/ccwss-maker/Research-Records/blob/master/8.Engineering%20Training%20Competition%20-%20Logistics%20Handling%20Cart/3.Third%20Generation%20Remote%20Control%20Test.gif?raw=true" alt="Fourth Generation Model Robotic Arm Range of Motion Modeling" width="400px" height="auto">
                 </a>
                 <br>
-                <p align="center"><strong><em>8.5 Third Generation Remote Control Test</em></strong></p>
+                <p align="center"><strong><em>8.5 Fourth Generation Model Robotic Arm Range of Motion Modeling</em></strong></p>
             </td>
             <td>
                 <a href="https://github.com/ccwss-maker/Research-Records/blob/master/8.Engineering%20Training%20Competition%20-%20Logistics%20Handling%20Cart/4.Third%20Generation%20Wheel%20Set%20Tuning.mp4">
-                <img src="https://github.com/ccwss-maker/Research-Records/blob/master/8.Engineering%20Training%20Competition%20-%20Logistics%20Handling%20Cart/4.Third%20Generation%20Wheel%20Set%20Tuning.gif?raw=true" alt="Third Generation Wheel Set Tuning" width="500px" height="auto">
+                <img src="https://github.com/ccwss-maker/Research-Records/blob/master/8.Engineering%20Training%20Competition%20-%20Logistics%20Handling%20Cart/4.Third%20Generation%20Wheel%20Set%20Tuning.gif?raw=true" alt="Third Generation Wheel Set Tuning" width="400px" height="auto">
                 </a>
                 <br>
                 <p align="center"><strong><em>8.6 Third Generation Wheel Set Tuning</em></strong></p>
