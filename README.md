@@ -22,12 +22,12 @@
 <div align="center">
     <table>
         <tr>
-            <td>
+            <td align="center">
                 <img src="https://github.com/ccwss-maker/Research-Records/blob/master/1.Monopole%20Electromagnetic%20Gun/4.Second%20Generation%20Electromagnetic%20Gun%20PCB%20Diagram.png?raw=true" alt="Second Generation Electromagnetic Gun PCB Diagram"  width="500px" height="auto">
                 <br>
                 <p align="center"><strong><em>1.4 Second Generation Electromagnetic Gun <br> PCB Diagram</em></strong></p>
             </td>
-            <td>
+            <td align="center">
                 <img src="https://github.com/ccwss-maker/Research-Records/blob/master/1.Monopole%20Electromagnetic%20Gun/5.Second%20Generation%20Electromagnetic%20Gun%20Physical%20Simulation%20Diagram.png?raw=true" alt="Second Generation Electromagnetic Gun Physical Simulation Diagram"  width="500px" height="auto">
                 <br>
                 <p align="center"><strong><em>1.5 Second Generation Electromagnetic Gun <br> Physical Simulation Diagram</em></strong></p>
@@ -47,12 +47,12 @@
 <div align="center">
     <table>
         <tr>
-            <td>
+            <td align="center">
                 <img src="https://github.com/ccwss-maker/Research-Records/blob/master/2.Triode%20Electromagnetic%20Gun/1.First%20Generation%20Triode%20Electromagnetic%20Gun%20PCB%20Diagram.png?raw=true" alt="First Generation Triode Electromagnetic Gun PCB Diagram"  width="500px" height="auto">
                 <br>
                 <p align="center"><strong><em>2.1 First Generation Triode Electromagnetic Gun <br> PCB Diagram</em></strong></p>
             </td>
-            <td>
+            <td align="center">
                 <img src="https://github.com/ccwss-maker/Research-Records/blob/master/2.Triode%20Electromagnetic%20Gun/2.First%20Generation%20Triode%20Electromagnetic%20Gun%20Physical%20Simulation%20Diagram.png?raw=true" alt="First Generation Triode Electromagnetic Gun Simulation Diagram"  width="500px" height="auto">
                 <br>
                 <p align="center"><strong><em>2.2 First Generation Triode Electromagnetic Gun <br> Physical Simulation Diagram </em></strong></p>
@@ -72,12 +72,12 @@
 <div align="center">
     <table>
         <tr>
-            <td>
+            <td align="center">
                 <img src="https://github.com/ccwss-maker/Research-Records/blob/master/2.Triode%20Electromagnetic%20Gun/4.Second%20Generation%20Triode%20Electromagnetic%20Gun%20PCB%20Diagram.png?raw=true" alt="Second Generation Triode Electromagnetic Gun PCB Diagram"  width="500px" height="auto">
                 <br>
                 <p align="center"><strong><em>2.4 Second Generation Triode Electromagnetic Gun <br> PCB Diagram</em></strong></p>
             </td>
-            <td>
+            <td align="center">
                 <img src="https://github.com/ccwss-maker/Research-Records/blob/master/2.Triode%20Electromagnetic%20Gun/5.Second%20Generation%20Triode%20Electromagnetic%20Gun%20Physical%20Simulation%20Image.png?raw=true" alt="Second Generation Triode Electromagnetic Gun Simulation Diagram"  width="500px" height="auto">
                 <br>
                 <p align="center"><strong><em>2.5 Second Generation Triode Electromagnetic Gun <br> Physical Simulation Diagram</em></strong></p>
@@ -91,14 +91,14 @@
 <div align="center">
     <table>
         <tr>
-            <td>
+            <td align="center">
                 <a href="https://github.com/ccwss-maker/Research-Records/blob/master/3.Intelligent%20Remote-Controlled%20Line-Tracking%20Obstacle-Avoidance%20Car/1.First%20Generation%20Model%20Obstacle%20Avoidance%20Demonstration.mp4">
                 <img src="https://github.com/ccwss-maker/Research-Records/blob/master/3.Intelligent%20Remote-Controlled%20Line-Tracking%20Obstacle-Avoidance%20Car/1.First%20Generation%20Model%20Obstacle%20Avoidance%20Demonstration.gif?raw=true" alt="First Generation Model Obstacle Avoidance Demonstration" width="380px" height="auto">
                 </a>
                 <br>
                 <p align="center"><strong><em>3.1 First Generation Model <br> Obstacle Avoidance Demonstration </em></strong></p>
             </td>
-            <td>
+            <td align="center">
                 <a href="https://github.com/ccwss-maker/Research-Records/blob/master/3.Intelligent%20Remote-Controlled%20Line-Tracking%20Obstacle-Avoidance%20Car/2.First%20Generation%20Model%20Remote%20Control%20Demonstration.mp4">
                 <img src="https://github.com/ccwss-maker/Research-Records/blob/master/3.Intelligent%20Remote-Controlled%20Line-Tracking%20Obstacle-Avoidance%20Car/2.First%20Generation%20Model%20Remote%20Control%20Demonstration.gif?raw=true" alt="First Generation Model Remote Control Demonstration" width="380px" height="auto">
                 </a>
@@ -112,12 +112,12 @@
 <div align="center">
     <table>
         <tr>
-            <td>
+            <td align="center">
                 <img src="https://github.com/ccwss-maker/Research-Records/blob/master/3.Intelligent%20Remote-Controlled%20Line-Tracking%20Obstacle-Avoidance%20Car/3.Second%20Generation%20Small%20Car%20Chassis%20PCB%20Diagram.png?raw=true" alt="Second Generation Small Car Chassis PCB Diagram" width="500px" height="auto">
                 <br>
                 <p align="center"><strong><em>3.3 Second Generation Small Car  Chassis<br> PCB Diagram</em></strong></p>
             </td>
-            <td>
+            <td align="center">
                 <img src="https://github.com/ccwss-maker/Research-Records/blob/master/3.Intelligent%20Remote-Controlled%20Line-Tracking%20Obstacle-Avoidance%20Car/4.Second%20Generation%20Small%20Car%20Chassis%20Physical%20Simulation%20Diagram.png?raw=true" alt="Second Generation Small Car Chassis Physical Simulation Diagram" width="500px" height="auto">
                 <br>
                 <p align="center"><strong><em>3.4 Second Generation Small Car  Chassis<br> Physical Simulation Diagram</em></strong></p>
@@ -129,12 +129,12 @@
 <div align="center">
     <table>
         <tr>
-            <td>
+            <td align="center">
                 <img src="https://github.com/ccwss-maker/Research-Records/blob/master/3.Intelligent%20Remote-Controlled%20Line-Tracking%20Obstacle-Avoidance%20Car/5.Second%20Generation%20Remote%20Control%20PCB%20Diagram.png?raw=true" alt="Second Generation Remote Control PCB Diagram" width="500px" height="auto">
                 <br>
                 <p align="center"><strong><em>3.5 Second Generation Remote Control <br> PCB Diagram </em></strong></p>
             </td>
-            <td>
+            <td align="center">
                 <img src="https://github.com/ccwss-maker/Research-Records/blob/master/3.Intelligent%20Remote-Controlled%20Line-Tracking%20Obstacle-Avoidance%20Car/6.Second%20Generation%20Remote%20Control%20Physical%20Simulation%20Diagram.png?raw=true" alt="Second Generation Remote Control Physical Simulation Diagram" width="500px" height="auto">
                 <br>
                 <p align="center"><strong><em>3.6 Second Generation Remote Control  <br> Physical Simulation Diagram</em></strong></p>
@@ -154,12 +154,12 @@
 <div align="center">
     <table>
         <tr>
-            <td>
+            <td align="center">
                 <img src="https://github.com/ccwss-maker/Research-Records/blob/master/4.OpenCV%20Image%20Processing/1.Negative%20Restored%20To%20Original%20Image/Negative.jpg?raw=true" alt="Negative" width="500px" height="auto">
                 <br>
                 <p align="center"><strong><em>Negative</em></strong></p>
             </td>
-            <td>
+            <td align="center">
                 <img src="https://github.com/ccwss-maker/Research-Records/blob/master/4.OpenCV%20Image%20Processing/1.Negative%20Restored%20To%20Original%20Image/Original%20Image.jpg?raw=true" alt="Original Image" width="500px" height="auto">
                 <br>
                 <p align="center"><strong><em>Original Image</em></strong></p>
@@ -234,14 +234,14 @@
 <div align="center">
     <table>
         <tr>
-            <td>
+            <td align="center">
                 <a href="https://github.com/ccwss-maker/Research-Records/blob/master/8.Engineering%20Training%20Competition%20-%20Logistics%20Handling%20Cart/3.Third%20Generation%20Remote%20Control%20Test.mp4">
                 <img src="https://github.com/ccwss-maker/Research-Records/blob/master/8.Engineering%20Training%20Competition%20-%20Logistics%20Handling%20Cart/3.Third%20Generation%20Remote%20Control%20Test.gif?raw=true" alt="Third Generation Remote Control Test" width="385px" height="auto">
                 </a>
                 <br>
                 <p align="center"><strong><em>8.3 Third Generation Remote Control Test</em></strong></p>
             </td>
-            <td>
+            <td align="center">
                 <a href="https://github.com/ccwss-maker/Research-Records/blob/master/8.Engineering%20Training%20Competition%20-%20Logistics%20Handling%20Cart/4.Third%20Generation%20Wheel%20Set%20Tuning.mp4">
                 <img src="https://github.com/ccwss-maker/Research-Records/blob/master/8.Engineering%20Training%20Competition%20-%20Logistics%20Handling%20Cart/4.Third%20Generation%20Wheel%20Set%20Tuning.gif?raw=true" alt="Third Generation Wheel Set Tuning" width="385px" height="auto">
                 </a>
@@ -255,12 +255,12 @@
 <div align="center">
     <table>
         <tr>
-            <td>
+            <td align="center">
                 <img src="https://github.com/ccwss-maker/Research-Records/blob/master/8.Engineering%20Training%20Competition%20-%20Logistics%20Handling%20Cart/5.Fourth%20Generation%20Robotic%20Arm%20CATIA%20Model-Based%20Control%20Simulation.gif?raw=true" alt="Fourth Generation Robotic Arm CATIA Model-Based Control Simulation" width="385px" height="auto">
                 <br>
                 <p align="center"><strong><em>8.5 Fourth Generation Robotic Arm <br> CATIA Model-Based Control Simulation</em></strong></p>
             </td>
-            <td>
+            <td align="center">
                 <a href="https://github.com/ccwss-maker/Research-Records/blob/master/8.Engineering%20Training%20Competition%20-%20Logistics%20Handling%20Cart/6.Fourth%20Generation%20Robotic%20Arm%20Range%20of%20Motion%20Modeling.mp4">
                 <img src="https://github.com/ccwss-maker/Research-Records/blob/master/8.Engineering%20Training%20Competition%20-%20Logistics%20Handling%20Cart/6.Fourth%20Generation%20Robotic%20Arm%20Range%20of%20Motion%20Modeling.gif?raw=true" alt="Fourth Generation Robotic Arm Range of Motion Modeling" width="385px" height="auto">
                 </a>
@@ -300,34 +300,14 @@
     <p align="center"><strong><em>8.9 Fourth Generation Material Handling <br> Demonstration</em></strong></p>
 </p>
 
-<!-- <div align="center">
-    <table>
-        <tr>
-            <td>
-                <a href="https://github.com/ccwss-maker/Research-Records/blob/master/8.Engineering%20Training%20Competition%20-%20Logistics%20Handling%20Cart/8.Fourth%20Generation%20LVGL%20Main%20Control%20Interface%20Demonstration.mp4">
-                <img src="https://github.com/ccwss-maker/Research-Records/blob/master/8.Engineering%20Training%20Competition%20-%20Logistics%20Handling%20Cart/8.Fourth%20Generation%20LVGL%20Main%20Control%20Interface%20Demonstration.gif?raw=true" alt="Fourth Generation LVGL Main Control Interface Demonstration" width="385px" height="auto">
-                </a>
-                <br>
-                <p align="center"><strong><em>8.8 Fourth Generation LVGL Main Control <br> Interface Demonstration</em></strong></p>
-            </td>
-            <td>
-                <a href="https://github.com/ccwss-maker/Research-Records/blob/master/8.Engineering%20Training%20Competition%20-%20Logistics%20Handling%20Cart/9.Fourth%20Generation%20Material%20Handling%20Demonstration.mp4">
-                <img src="https://github.com/ccwss-maker/Research-Records/blob/master/8.Engineering%20Training%20Competition%20-%20Logistics%20Handling%20Cart/9.Fourth%20Generation%20Material%20Handling%20Demonstration.gif?raw=true" alt="Fourth Generation Material Handling Demonstration" width="385px" height="auto">
-                </a>
-                <br>
-                <p align="center"><strong><em>8.9 Fourth Generation Material Handling <br> Demonstration</em></strong></p>
-            </td>
-        </tr>
-    </table>
-</div> -->
-
 <p align="center">
     <img src="https://github.com/ccwss-maker/Research-Records/blob/master/8.Engineering%20Training%20Competition%20-%20Logistics%20Handling%20Cart/10.Fifth%20Generation%20Master%20Control%20Module%20PCB%20(6%20layers).jpg?raw=true" style="width: 400px;" alt="10.Fifth Generation Master Control Module PCB (6 layers)">
     <br>
     <p align="center"><strong><em>8.10 Fifth Generation Master Control Module PCB (6 layers)</em></strong></p>
 </p>
 
-##9.Monopole Electromagnetic Gun
+## 9.Multi-Axle Independent Steering Transport Vehicle Alignment Correction Model
+
 ##10.Monopole Electromagnetic Gun
 2. 第二项
     1. 子项2.1
