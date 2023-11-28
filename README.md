@@ -405,7 +405,7 @@ During my undergraduate journey, **I independently executed over 95% of the work
     <img src="https://github.com/ccwss-maker/Research-Records/blob/master/8.Engineering%20Training%20Competition%20-%20Intelligent%20Material%20Handling%20Robot/9.Fourth%20Generation%20Material%20Handling%20Demonstration.gif?raw=true" alt="Fourth Generation Material Handling Demonstration" height="400px">
     </a>
     <br>
-    <p align="center"><strong><em>8.9 Fourth Generation Material Handling <br> Demonstration</em></strong></p>
+    <p align="center"><strong><em>8.9 Fourth Generation Material Handling Demonstration</em></strong></p>
 </p>
 
 <br>
