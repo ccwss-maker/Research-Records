@@ -310,7 +310,7 @@
 
 <p align="center">
     <a href="https://github.com/ccwss-maker/Research-Records/blob/master/9.Multi-Axle%20Independent%20Steering%20Transport%20Vehicle%20Alignment%20Correction%20Model/1.Lidar%20Obstacle%20Avoidance%20Gazebo%20Simulation.mp4">
-    <img src="https://github.com/ccwss-maker/Research-Records/blob/master/9.Multi-Axle%20Independent%20Steering%20Transport%20Vehicle%20Alignment%20Correction%20Model/1.Lidar%20Obstacle%20Avoidance%20Gazebo%20Simulation.gif?raw=true" alt="Lidar Obstacle Avoidance Gazebo Simulation" wide="300px">
+    <img src="https://github.com/ccwss-maker/Research-Records/blob/master/9.Multi-Axle%20Independent%20Steering%20Transport%20Vehicle%20Alignment%20Correction%20Model/1.Lidar%20Obstacle%20Avoidance%20Gazebo%20Simulation.gif?raw=true" alt="Lidar Obstacle Avoidance Gazebo Simulation" wide="200px">
     </a>
     <br>
     <p align="center"><strong><em>9.1 Lidar Obstacle Avoidance Gazebo Simulation</em></strong></p>
@@ -318,7 +318,7 @@
 
 <p align="center">
     <a href="https://github.com/ccwss-maker/Research-Records/blob/master/9.Multi-Axle%20Independent%20Steering%20Transport%20Vehicle%20Alignment%20Correction%20Model/2.Automatic%20Rectification%20Gazebo%20Simulation.mp4">
-    <img src="https://github.com/ccwss-maker/Research-Records/blob/master/9.Multi-Axle%20Independent%20Steering%20Transport%20Vehicle%20Alignment%20Correction%20Model/2.Automatic%20Rectification%20Gazebo%20Simulation.gif?raw=true" alt="Automatic Rectification Gazebo Simulation" wide="300px">
+    <img src="https://github.com/ccwss-maker/Research-Records/blob/master/9.Multi-Axle%20Independent%20Steering%20Transport%20Vehicle%20Alignment%20Correction%20Model/2.Automatic%20Rectification%20Gazebo%20Simulation.gif?raw=true" alt="Automatic Rectification Gazebo Simulation" wide="200px">
     </a>
     <br>
     <p align="center"><strong><em>9.2 Automatic Rectification Gazebo Simulation</em></strong></p>
@@ -326,14 +326,14 @@
 
 <p align="center">
     <a href="https://github.com/ccwss-maker/Research-Records/blob/master/9.Multi-Axle%20Independent%20Steering%20Transport%20Vehicle%20Alignment%20Correction%20Model/3.Automatic%20Alignment%20Correction%20Wheel%20Set%20Perspective%20View.mp4">
-    <img src="https://github.com/ccwss-maker/Research-Records/blob/master/9.Multi-Axle%20Independent%20Steering%20Transport%20Vehicle%20Alignment%20Correction%20Model/3.Automatic%20Alignment%20Correction%20Wheel%20Set%20Perspective%20View.gif?raw=true" alt="Automatic Alignment Correction Wheel Set Perspective View" wide="300px">
+    <img src="https://github.com/ccwss-maker/Research-Records/blob/master/9.Multi-Axle%20Independent%20Steering%20Transport%20Vehicle%20Alignment%20Correction%20Model/3.Automatic%20Alignment%20Correction%20Wheel%20Set%20Perspective%20View.gif?raw=true" alt="Automatic Alignment Correction Wheel Set Perspective View" wide="200px">
     </a>
     <br>
     <p align="center"><strong><em>9.3 Automatic Alignment Correction Wheel Set Perspective View</em></strong></p>
 </p>
 
 <p align="center">
-    <img src="https://github.com/ccwss-maker/Research-Records/blob/master/9.Multi-Axle%20Independent%20Steering%20Transport%20Vehicle%20Alignment%20Correction%20Model/4.Beam%20Conveyance%20Vehicle%20Alignment%20Correction%20Model.jpg?raw=true" alt="Beam Conveyance Vehicle Alignment Correction Model" wide="300px">
+    <img src="https://github.com/ccwss-maker/Research-Records/blob/master/9.Multi-Axle%20Independent%20Steering%20Transport%20Vehicle%20Alignment%20Correction%20Model/4.Beam%20Conveyance%20Vehicle%20Alignment%20Correction%20Model.jpg?raw=true" alt="Beam Conveyance Vehicle Alignment Correction Model" wide="200px">
     <br>
     <p align="center"><strong><em>9.4 Beam Conveyance Vehicle Alignment Correction Model</em></strong></p>
 </p>
