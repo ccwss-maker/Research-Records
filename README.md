@@ -1,7 +1,9 @@
 # Personal Research Records
 
+***Please note that due to network issues, some content may load slowly. Please be patient or consider downloading it to view.***
+
 ## Introduction
-During my undergraduate journey, **I independently executed over 95% of the workload for nine distinctive projects**, which reflect the progression of my academic and research capabilities. **In my freshman year, I completed projects 1 to 3**, laying a solid foundation for my subsequent scholarly endeavors. **Moving into my sophomore year, I delved deeper, successfully carrying out projects 4 to 6**. **In my junior year, I completed projects 7 to 9**, which further showcased my in-depth exploration and academic accomplishments in the realm of research. It is particularly noteworthy that **projects 5, 8, and 9, with their high level of complexity and depth of inquiry**, stood out as significant milestones in my scholarly work. These projects not only tested my expertise but also strengthened my problem-solving and independent research skills.
+During my undergraduate journey, **I independently executed over 95% of the workload for nine distinctive projects**, which reflect the progression of my academic and research capabilities. **By the end of my freshman year, I completed projects 1 to 3**, laying a solid foundation for my subsequent scholarly endeavors. **Moving into my sophomore year, I delved deeper, successfully carrying out projects 4 to 6**. **In my junior year, I completed projects 7 to 9**, which further showcased my in-depth exploration and academic accomplishments in the realm of research. It is particularly noteworthy that **projects 5, 8, and 9, with their high level of complexity and depth of inquiry**, stood out as significant milestones in my scholarly work. These projects not only tested my expertise but also strengthened my problem-solving and independent research skills.
 
 ## Table of Contents
 
