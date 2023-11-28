@@ -31,7 +31,7 @@
    - 6.1 Break The School Record
 7. [Infrared Thermal Imager](#7infrared-thermal-imager)
    - 7.1 Demonstration
-8. [Engineering Training Competition - Logistics Handling Cart](#8engineering-training-competition---logistics-handling-cart)
+8. [Engineering Training Competition - Intelligent Material Handling Robot](#8engineering-training-competition---intelligent-material-handling-robot)
    - 8.1 First Generation Model
    - 8.2 Second Generation Remote Control Test
    - 8.3 Third Generation Remote Control Test
@@ -263,7 +263,7 @@
     <p align="center"><strong><em>7.1 Demonstration </em></strong></p>
 </p>
 
-## 8.Engineering Training Competition - Logistics Handling Cart
+## 8.Engineering Training Competition - Intelligent Material Handling Robot
 
 <p align="center">
     <a href="https://github.com/ccwss-maker/Research-Records/blob/master/8.Engineering%20Training%20Competition%20-%20Logistics%20Handling%20Cart/1.First%20Generation%20Model.mp4">
