@@ -325,8 +325,8 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/ccwss-maker/Research-Records/blob/master/9.Multi-Axle%20Independent%20Steering%20Transport%20Vehicle%20Alignment%20Correction%20Model/3.The%20Perspective%20View%20of%20the%20Automatic%20Alignment%20Correction%20Wheel%20Set.mp4">
-    <img src="https://github.com/ccwss-maker/Research-Records/blob/master/9.Multi-Axle%20Independent%20Steering%20Transport%20Vehicle%20Alignment%20Correction%20Model/3.The%20Perspective%20View%20of%20the%20Automatic%20Alignment%20Correction%20Wheel%20Set.gif?raw=true" alt="Automatic Alignment Correction Wheel Set Perspective View" wide="400px">
+    <a href="https://github.com/ccwss-maker/Research-Records/blob/master/9.Multi-Axle%20Independent%20Steering%20Transport%20Vehicle%20Alignment%20Correction%20Model/3.Automatic%20Alignment%20Correction%20Wheel%20Set%20Perspective%20View.mp4">
+    <img src="https://github.com/ccwss-maker/Research-Records/blob/master/9.Multi-Axle%20Independent%20Steering%20Transport%20Vehicle%20Alignment%20Correction%20Model/3.Automatic%20Alignment%20Correction%20Wheel%20Set%20Perspective%20View.gif?raw=true" alt="Automatic Alignment Correction Wheel Set Perspective View" wide="400px">
     </a>
     <br>
     <p align="center"><strong><em>9.3 Automatic Alignment Correction Wheel Set Perspective View</em></strong></p>
