@@ -170,7 +170,7 @@
 </div>
 
 <p align="center">
-    <img src="https://github.com/ccwss-maker/Research-Records/blob/master/4.OpenCV%20Image%20Processing/2.Spinal%20Curvature%20Measurement%20Program%20Demonstration.jpeg?raw=true" width="100%" alt="Spinal Curvature Measurement Program Demonstration">
+    <img src="https://github.com/ccwss-maker/Research-Records/blob/master/4.OpenCV%20Image%20Processing/2.Spinal%20Curvature%20Measurement%20Program%20Demonstration.jpeg?raw=true" width="80%" alt="Spinal Curvature Measurement Program Demonstration">
     <br>
     <p align="center"><strong><em>4.2 Spinal Curvature Measurement Program Demonstration</em></strong></p>
 </p>
@@ -179,7 +179,7 @@
 
 <p align="center">
     <a href="https://github.com/ccwss-maker/Research-Records/blob/master/5.ChiJi%20Racing%20Team%20-%20Autonomous%20Formula%20Racing%20Car/1.Initial%20Program%20Testing.mp4">
-    <img src="https://github.com/ccwss-maker/Research-Records/blob/master/5.ChiJi%20Racing%20Team%20-%20Autonomous%20Formula%20Racing%20Car/1.Initial%20Program%20Testing.gif?raw=true" width="100%" alt="Initial Program Testing">
+    <img src="https://github.com/ccwss-maker/Research-Records/blob/master/5.ChiJi%20Racing%20Team%20-%20Autonomous%20Formula%20Racing%20Car/1.Initial%20Program%20Testing.gif?raw=true" width="80%" alt="Initial Program Testing">
     </a>
     <br>
     <p align="center"><strong><em>5.1 Initial Program Testing </em></strong></p>
@@ -197,7 +197,7 @@
 
 <p align="center">
     <a href="https://github.com/ccwss-maker/Research-Records/blob/master/6.Gravity%20Potential%20Energy%20Car%20School%20Competition/1.Break%20The%20School%20Record.mp4">
-    <img src="https://github.com/ccwss-maker/Research-Records/blob/master/6.Gravity%20Potential%20Energy%20Car%20School%20Competition/1.Break%20The%20School%20Record.gif?raw=true" width="50%" alt="Break The School Record">
+    <img src="https://github.com/ccwss-maker/Research-Records/blob/master/6.Gravity%20Potential%20Energy%20Car%20School%20Competition/1.Break%20The%20School%20Record.gif?raw=true" width="40%" alt="Break The School Record">
     </a>
     <br>
     <p align="center"><strong><em>6.1 Break The School Record </em></strong></p>
@@ -207,7 +207,7 @@
 
 <p align="center">
     <a href="https://github.com/ccwss-maker/Research-Records/blob/master/7.Infrared%20Thermal%20Imager/1.Demonstration.mp4">
-    <img src="https://github.com/ccwss-maker/Research-Records/blob/master/7.Infrared%20Thermal%20Imager/1.Demonstration.gif?raw=true" width="50%" alt="Demonstration">
+    <img src="https://github.com/ccwss-maker/Research-Records/blob/master/7.Infrared%20Thermal%20Imager/1.Demonstration.gif?raw=true" width="40%" alt="Demonstration">
     </a>
     <br>
     <p align="center"><strong><em>7.1 Demonstration </em></strong></p>
@@ -225,7 +225,7 @@
 
 <p align="center">
     <a href="https://github.com/ccwss-maker/Research-Records/blob/master/8.Engineering%20Training%20Competition%20-%20Logistics%20Handling%20Cart/2.Second%20Generation%20Remote%20Control%20Test.mp4">
-    <img src="https://github.com/ccwss-maker/Research-Records/blob/master/8.Engineering%20Training%20Competition%20-%20Logistics%20Handling%20Cart/2.Second%20Generation%20Remote%20Control%20Test.gif?raw=true" width="70%" alt="Second Generation Remote Control Test">
+    <img src="https://github.com/ccwss-maker/Research-Records/blob/master/8.Engineering%20Training%20Competition%20-%20Logistics%20Handling%20Cart/2.Second%20Generation%20Remote%20Control%20Test.gif?raw=true" width="50%" alt="Second Generation Remote Control Test">
     </a>
     <br>
     <p align="center"><strong><em>8.2 Second Generation Remote Control Test</em></strong></p>
