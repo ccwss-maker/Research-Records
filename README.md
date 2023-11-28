@@ -341,3 +341,48 @@
 2. 第二项
     1. 子项2.1
    2. 子项2.2
+# 个人研究记录
+## 1. 单极电磁炮
+
+![初中自制ZVS升压电路](https://github.com/ccwss-maker/Research-Records/blob/master/1.Monopole%20Electromagnetic%20Gun/1.Junior%20High%20Self-made%20ZVS%20Boost%20Circuit.jpeg?raw=true)
+
+*图 1.1：初中自制ZVS升压电路*
+
+![ZVS升压模块](https://github.com/ccwss-maker/Research-Records/blob/master/1.Monopole%20Electromagnetic%20Gun/2.ZVS%20Boost%20Module.jpeg?raw=true)
+
+*图 1.2：ZVS升压模块*
+
+![第一代电磁炮模型](https://github.com/ccwss-maker/Research-Records/blob/master/1.Monopole%20Electromagnetic%20Gun/3.First%20Generation%20Electromagnetic%20Gun%20Model.jpg?raw=true)
+
+*图 1.3：第一代电磁炮模型*
+
+| ![第二代电磁炮PCB图](https://github.com/ccwss-maker/Research-Records/blob/master/1.Monopole%20Electromagnetic%20Gun/4.Second%20Generation%20Electromagnetic%20Gun%20PCB%20Diagram.png?raw=true) | 
+![第二代电磁炮物理仿真图](https://github.com/ccwss-maker/Research-Records/blob/master/1.Monopole%20Electromagnetic%20Gun/5.Second%20Generation%20Electromagnetic%20Gun%20Physical%20Simulation%20Diagram.png?raw=true) |
+| :---: | :---: |
+| *图 1.4：第二代电磁炮PCB图* | *图 1.5：第二代电磁炮物理仿真图* |
+
+![电磁炮的PCB设计](https://github.com/ccwss-maker/Research-Records/blob/master/1.Monopole%20Electromagnetic%20Gun/6.PCB%20Designs%20for%20Electromagnetic%20Gun.jpg?raw=true)
+
+*图 1.6：电磁炮的PCB设计*
+
+## 2. 三极管电磁炮
+
+| ![第一代三极管电磁炮PCB图](https://github.com/ccwss-maker/Research-Records/blob/master/2.Triode%20Electromagnetic%20Gun/1.First%20Generation%20Triode%20Electromagnetic%20Gun%20PCB%20Diagram.png?raw=true) | ![第一代三极管电磁炮物理仿真图](https://github.com/ccwss-maker/Research-Records/blob/master/2.Triode%20Electromagnetic%20Gun/2.First%20Generation%20Triode%20Electromagnetic%20Gun%20Physical%20Simulation%20Diagram.png?raw=true) |
+| :---: | :---: |
+| *图 2.1：第一代三极管电磁炮PCB图* | *图 2.2：第一代三极管电磁炮物理仿真图* |
+
+[![第一代三极管电磁炮演示](https://github.com/ccwss-maker/Research-Records/blob/master/2.Triode%20Electromagnetic%20Gun/3.First%20Generation%20Triode%20Electromagnetic%20Gun%20Demonstration.gif?raw=true)](https://github.com/ccwss-maker/Research-Records/blob/master/2.Triode%20Electromagnetic%20Gun/3.First%20Generation%20Triode%20Electromagnetic%20Gun%20Demonstration.mp4)
+
+*图 2.3：第一代三极管电磁炮演示*
+
+| ![第二代三极管电磁炮PCB图](https://github.com/ccwss-maker/Research-Records/blob/master/2.Triode%20Electromagnetic%20Gun/4.Second%20Generation%20Triode%20Electromagnetic%20Gun%20PCB%20Diagram.png?raw=true) | ![第二代三极管电磁炮物理仿真图](https://github.com/ccwss-maker/Research-Records/blob/master/2.Triode%20Electromagnetic%20Gun/5.Second%20Generation%20Triode%20Electromagnetic%20Gun%20Physical%20Simulation%20Image.png?raw=true) |
+| :---: | :---: |
+| *图 2.4：第二代三极管电磁炮PCB图* | *图 2.5：第二代三极管电磁炮物理仿真图* |
+
+## 3. 智能遥控循线避障小车
+
+| [![第一代模型避障演示](https://github.com/ccwss-maker/Research-Records/blob/master/3.Intelligent%20Remote-Controlled%20Line-Tracking%20Obstacle-Avoidance%20Car/1.First%20Generation%20Model%20Obstacle%20Avoidance%20Demonstration.gif?raw=true)](https://github.com/ccwss-maker/Research-Records/blob/master/3.Intelligent%20Remote-Controlled%20Line-Tracking%20Obstacle-Avoidance%20Car/1.First%20Generation%20Model%20Obstacle%20Avoidance%20Demonstration.mp4) | [![第一代模型遥控演示](https://github.com/ccwss-maker/Research-Records/blob/master/3.Intelligent%20Remote-Controlled%20Line-Tracking%20Obstacle-Avoidance%20Car/2.First%20Generation%20Model%20Remote%20Control%20Demonstration.gif?raw=true)](https://github.com/ccwss-maker/Research-Records/blob/master/3.Intelligent%20Remote-Controlled%20Line-Tracking%20Obstacle-Avoidance%20Car/2.First%20Generation%20Model%20Remote%20Control%20Demonstration.mp4) |
+| :---: | :---: |
+| *图 3.1：第一代模型避障演示* | *图 3.2：第一代模型遥控演示* |
+
+| ![第二代小车底盘PCB图](https://github.com/ccwss-maker/Research-Records/blob/master/3.Intelligent%20Remote-Controlled%20Line-Tracking%20Obstacle-Avoidance%20Car/3.Second%20Generation%20Small%20Car%20Chassis%20PCB%20Diagram.png?raw=true) | ![第二代小车底盘物理仿真图](https://github.com/ccwss-maker/Research-Records/blob/master/
