@@ -2,7 +2,7 @@
 ## 1.Monopole Electromagnetic Gun
 
 <p align="center">
-    <img src="https://github.com/ccwss-maker/Research-Records/blob/master/1.Monopole%20Electromagnetic%20Gun/1.Junior%20High%20Self-made%20ZVS%20Boost%20Circuit.jpeg?raw=true" style="width: 800px;" alt="Junior High Self-made ZVS Boost Circuit">
+    <img src="https://github.com/ccwss-maker/Research-Records/blob/master/1.Monopole%20Electromagnetic%20Gun/1.Junior%20High%20Self-made%20ZVS%20Boost%20Circuit.jpeg?raw=true" style="width=200%;" alt="Junior High Self-made ZVS Boost Circuit">
     <br>
     <strong><em>1.1 Junior High Self-made ZVS Boost Circuit</em></strong>
 </p>
