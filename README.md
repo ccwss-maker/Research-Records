@@ -1,4 +1,9 @@
-# Table of Contents
+# Personal Research Records
+
+## Introduction
+During my undergraduate journey, **I independently executed over 95% of the workload for nine distinctive projects**, which reflect the progression of my academic and research capabilities. **In my freshman year, I completed projects 1 to 3**, laying a solid foundation for my subsequent scholarly endeavors. **Moving into my sophomore year, I delved deeper, successfully carrying out projects 4 to 6**. **In my junior year, I completed projects 7 to 9**, which further showcased my in-depth exploration and academic accomplishments in the realm of research. It is particularly noteworthy that **projects 5, 8, and 9, with their high level of complexity and depth of inquiry**, stood out as significant milestones in my scholarly work. These projects not only tested my expertise but also strengthened my problem-solving and independent research skills.
+
+## Table of Contents
 
 1. [Monopole Electromagnetic Gun](#1monopole-electromagnetic-gun)
    - 1.1 Junior High Self-made ZVS Boost Circuit
@@ -48,7 +53,6 @@
    - 9.3 Automatic Alignment Correction Wheel Set Perspective View
    - 9.4 Beam Conveyance Vehicle Alignment Correction Model
 
-# Personal Research Records
 ## 1.Monopole Electromagnetic Gun
 
 <p align="center">
