@@ -11,19 +11,19 @@ During my undergraduate journey, **I independently executed over 95% of the work
 
 ## Table of Contents
 
-1. [Monopole Electromagnetic Gun](#1monopole-electromagnetic-gun)
+1. [Single-Stage Coilgun](#1single-stage-coilgun)
    - 1.1 Junior High Self-made ZVS Boost Circuit
    - 1.2 ZVS Boost Module
-   - 1.3 First Generation Electromagnetic Gun Model
-   - 1.4 Second Generation Electromagnetic Gun PCB Diagram
-   - 1.5 Second Generation Electromagnetic Gun Physical Simulation Diagram
-   - 1.6 PCB Designs for Electromagnetic Gun
-2. [Three-Stage Electromagnetic Gun](#2three-stage-electromagnetic-gun)
-   - 2.1 First Generation Three-Stage Electromagnetic Gun PCB Diagram
-   - 2.2 First Generation Three-Stage Electromagnetic Gun Physical Simulation Diagram
-   - 2.3 First Generation Three-Stage Electromagnetic Gun Demonstration
-   - 2.4 Second Generation Three-Stage Electromagnetic Gun PCB Diagram
-   - 2.5 Second Generation Three-Stage Electromagnetic Gun Physical Simulation Diagram
+   - 1.3 First Generation Coilgun Model
+   - 1.4 Second Generation Coilgun PCB Diagram
+   - 1.5 Second Generation Coilgun Physical Simulation Diagram
+   - 1.6 PCB Designs for Coilgun
+2. [Three-Stage Coilgun](#2three-stage-coilgun)
+   - 2.1 First Generation Three-Stage Coilgun PCB Diagram
+   - 2.2 First Generation Three-Stage Coilgun Physical Simulation Diagram
+   - 2.3 First Generation Three-Stage Coilgun Demonstration
+   - 2.4 Second Generation Three-Stage Coilgun PCB Diagram
+   - 2.5 Second Generation Three-Stage Coilgun Physical Simulation Diagram
 3. [Intelligent Remote-Controlled Line-Tracking Obstacle-Avoidance Car](#3intelligent-remote-controlled-line-tracking-obstacle-avoidance-car)
    - 3.1 First Generation Model Obstacle Avoidance Demonstration
    - 3.2 First Generation Model Remote Control Demonstration
@@ -61,10 +61,10 @@ During my undergraduate journey, **I independently executed over 95% of the work
 
 <hr>
 
-## 1.Monopole Electromagnetic Gun
+## 1.Single-stage Coilgun
 
 <p align="center">
-    <img src="https://github.com/ccwss-maker/Research-Records/blob/master/1.Monopole%20Electromagnetic%20Gun/1.Junior%20High%20Self-made%20ZVS%20Boost%20Circuit.jpeg?raw=true" width="800px" alt="Junior High Self-made ZVS Boost Circuit">
+    <img src="https://github.com/ccwss-maker/Research-Records/blob/master/1.Single-stage%20Coilgun/1.Junior%20High%20Self-made%20ZVS%20Boost%20Circuit.jpeg?raw=true" width="800px" alt="Junior High Self-made ZVS Boost Circuit">
     <br>
     <strong><em>1.1 Junior High Self-made ZVS Boost Circuit</em></strong>
 </p>
@@ -72,7 +72,7 @@ During my undergraduate journey, **I independently executed over 95% of the work
 <br>
 
 <p align="center">
-    <img src="https://github.com/ccwss-maker/Research-Records/blob/master/1.Monopole%20Electromagnetic%20Gun/2.ZVS%20Boost%20Module.jpeg?raw=true" width="300px" alt="ZVS Boost Module">
+    <img src="https://github.com/ccwss-maker/Research-Records/blob/master/1.Single-stage%20Coilgun/2.ZVS%20Boost%20Module.jpeg?raw=true" width="300px" alt="ZVS Boost Module">
     <br>
     <strong><em>1.2 ZVS Boost Module</em></strong>
 </p>
@@ -80,9 +80,9 @@ During my undergraduate journey, **I independently executed over 95% of the work
 <br>
 
 <p align="center">
-    <img src="https://github.com/ccwss-maker/Research-Records/blob/master/1.Monopole%20Electromagnetic%20Gun/3.First%20Generation%20Electromagnetic%20Gun%20Model.jpg?raw=true" width="600px" alt="First Generation Electromagnetic Gun Model">
+    <img src="https://github.com/ccwss-maker/Research-Records/blob/master/1.Single-stage%20Coilgun/3.First%20Generation%20Coilgun%20Model.jpg?raw=true" width="600px" alt="First Generation Coilgun Model">
     <br>
-    <strong><em>1.3 First Generation Electromagnetic Gun Model</em></strong>
+    <strong><em>1.3 First Generation Coilgun Model</em></strong>
 </p>
 
 <br>
@@ -91,14 +91,14 @@ During my undergraduate journey, **I independently executed over 95% of the work
     <table>
         <tr>
             <td align="center">
-                <img src="https://github.com/ccwss-maker/Research-Records/blob/master/1.Monopole%20Electromagnetic%20Gun/4.Second%20Generation%20Electromagnetic%20Gun%20PCB%20Diagram.png?raw=true" alt="Second Generation Electromagnetic Gun PCB Diagram"  width="500px" height="auto">
+                <img src="https://github.com/ccwss-maker/Research-Records/blob/master/1.Single-stage%20Coilgun/4.Second%20Generation%20Coilgun%20PCB%20Diagram.png?raw=true" alt="Second Generation Coilgun PCB Diagram"  width="500px" height="auto">
                 <br>
-                <p align="center"><strong><em>1.4 Second Generation Electromagnetic Gun <br> PCB Diagram</em></strong></p>
+                <p align="center"><strong><em>1.4 Second Generation Coilgun <br> PCB Diagram</em></strong></p>
             </td>
             <td align="center">
-                <img src="https://github.com/ccwss-maker/Research-Records/blob/master/1.Monopole%20Electromagnetic%20Gun/5.Second%20Generation%20Electromagnetic%20Gun%20Physical%20Simulation%20Diagram.png?raw=true" alt="Second Generation Electromagnetic Gun Physical Simulation Diagram"  width="500px" height="auto">
+                <img src="https://github.com/ccwss-maker/Research-Records/blob/master/1.Single-stage%20Coilgun/5.Second%20Generation%20Coilgun%20Physical%20Simulation%20Diagram.png?raw=true" alt="Second Generation Coilgun Physical Simulation Diagram"  width="500px" height="auto">
                 <br>
-                <p align="center"><strong><em>1.5 Second Generation Electromagnetic Gun <br> Physical Simulation Diagram</em></strong></p>
+                <p align="center"><strong><em>1.5 Second Generation Coilgun <br> Physical Simulation Diagram</em></strong></p>
             </td>
         </tr>
     </table>
@@ -107,27 +107,27 @@ During my undergraduate journey, **I independently executed over 95% of the work
 <br>
 
 <p align="center">
-    <img src="https://github.com/ccwss-maker/Research-Records/blob/master/1.Monopole%20Electromagnetic%20Gun/6.PCB%20Designs%20for%20Electromagnetic%20Gun.jpg?raw=true" width="400px" alt="PCB Designs for Electromagnetic Gun">
+    <img src="https://github.com/ccwss-maker/Research-Records/blob/master/1.Single-stage%20Coilgun/6.PCB%20Designs%20for%20Coilgun.jpg?raw=true" width="400px" alt="PCB Designs for Coilgun">
     <br>
-    <strong><em>1.6 PCB Designs for Electromagnetic Gun</em></strong>
+    <strong><em>1.6 PCB Designs for Coilgun</em></strong>
 </p>
 
 <hr>
 
-## 2.Three-Stage Electromagnetic Gun
+## 2.Three-Stage Coilgun
 
 <div align="center">
     <table>
         <tr>
             <td align="center">
-                <img src="https://github.com/ccwss-maker/Research-Records/blob/master/2.Three-Stage%20Electromagnetic%20Gun/1.First%20Generation%20Three-Stage%20Electromagnetic%20Gun%20PCB%20Diagram.png?raw=true" alt="First Generation Three-Stage Electromagnetic Gun PCB Diagram"  width="500px" height="auto">
+                <img src="https://github.com/ccwss-maker/Research-Records/blob/master/2.Three-Stage%20Coilgun/1.First%20Generation%20Three-Stage%20Coilgun%20PCB%20Diagram.png?raw=true" alt="First Generation Three-Stage Coilgun PCB Diagram"  width="500px" height="auto">
                 <br>
-                <p align="center"><strong><em>2.1 First Generation Three-Stage Electromagnetic Gun <br> PCB Diagram</em></strong></p>
+                <p align="center"><strong><em>2.1 First Generation Three-Stage Coilgun <br> PCB Diagram</em></strong></p>
             </td>
             <td align="center">
-                <img src="https://github.com/ccwss-maker/Research-Records/blob/master/2.Three-Stage%20Electromagnetic%20Gun/2.First%20Generation%20Three-Stage%20Electromagnetic%20Gun%20Physical%20Simulation%20Diagram.png?raw=true" alt="First Generation Three-Stage Electromagnetic Gun Simulation Diagram"  width="500px" height="auto">
+                <img src="https://github.com/ccwss-maker/Research-Records/blob/master/2.Three-Stage%20Coilgun/2.First%20Generation%20Three-Stage%20Coilgun%20Physical%20Simulation%20Diagram.png?raw=true" alt="First Generation Three-Stage Coilgun Simulation Diagram"  width="500px" height="auto">
                 <br>
-                <p align="center"><strong><em>2.2 First Generation Three-Stage Electromagnetic Gun <br> Physical Simulation Diagram </em></strong></p>
+                <p align="center"><strong><em>2.2 First Generation Three-Stage Coilgun <br> Physical Simulation Diagram </em></strong></p>
             </td>
         </tr>
     </table>
@@ -136,11 +136,11 @@ During my undergraduate journey, **I independently executed over 95% of the work
 <br>
 
 <p align="center">
-    <a href="https://github.com/ccwss-maker/Research-Records/blob/master/2.Three-Stage%20Electromagnetic%20Gun/3.First%20Generation%20Three-Stage%20Electromagnetic%20Gun%20Demonstration.mp4">
-    <img src="https://github.com/ccwss-maker/Research-Records/blob/master/2.Three-Stage%20Electromagnetic%20Gun/3.First%20Generation%20Three-Stage%20Electromagnetic%20Gun%20Demonstration.gif?raw=true" width="900px" alt="First Generation Three-Stage Electromagnetic Gun Demonstration ">
+    <a href="https://github.com/ccwss-maker/Research-Records/blob/master/2.Three-Stage%20Coilgun/3.First%20Generation%20Three-Stage%20Coilgun%20Demonstration.mp4">
+    <img src="https://github.com/ccwss-maker/Research-Records/blob/master/2.Three-Stage%20Coilgun/3.First%20Generation%20Three-Stage%20Coilgun%20Demonstration.gif?raw=true" width="900px" alt="First Generation Three-Stage Coilgun Demonstration ">
     </a>
     <br>
-    <p align="center"><strong><em>2.3 First Generation Three-Stage Electromagnetic Gun Demonstration </em></strong></p>
+    <p align="center"><strong><em>2.3 First Generation Three-Stage Coilgun Demonstration </em></strong></p>
 </p>
 
 <br>
@@ -149,14 +149,14 @@ During my undergraduate journey, **I independently executed over 95% of the work
     <table>
         <tr>
             <td align="center">
-                <img src="https://github.com/ccwss-maker/Research-Records/blob/master/2.Three-Stage%20Electromagnetic%20Gun/4.Second%20Generation%20Three-Stage%20Electromagnetic%20Gun%20PCB%20Diagram.png?raw=true" alt="Second Generation Three-Stage Electromagnetic Gun PCB Diagram"  width="500px" height="auto">
+                <img src="https://github.com/ccwss-maker/Research-Records/blob/master/2.Three-Stage%20Coilgun/4.Second%20Generation%20Three-Stage%20Coilgun%20PCB%20Diagram.png?raw=true" alt="Second Generation Three-Stage Coilgun PCB Diagram"  width="500px" height="auto">
                 <br>
-                <p align="center"><strong><em>2.4 Second Generation Three-Stage Electromagnetic Gun <br> PCB Diagram</em></strong></p>
+                <p align="center"><strong><em>2.4 Second Generation Three-Stage Coilgun <br> PCB Diagram</em></strong></p>
             </td>
             <td align="center">
-                <img src="https://github.com/ccwss-maker/Research-Records/blob/master/2.Three-Stage%20Electromagnetic%20Gun/5.Second%20Generation%20Three-Stage%20Electromagnetic%20Gun%20Physical%20Simulation%20Image.png?raw=true" alt="Second Generation Three-Stage Electromagnetic Gun Simulation Diagram"  width="500px" height="auto">
+                <img src="https://github.com/ccwss-maker/Research-Records/blob/master/2.Three-Stage%20Coilgun/5.Second%20Generation%20Three-Stage%20Coilgun%20Physical%20Simulation%20Image.png?raw=true" alt="Second Generation Three-Stage Coilgun Simulation Diagram"  width="500px" height="auto">
                 <br>
-                <p align="center"><strong><em>2.5 Second Generation Three-Stage Electromagnetic Gun <br> Physical Simulation Diagram</em></strong></p>
+                <p align="center"><strong><em>2.5 Second Generation Three-Stage Coilgun <br> Physical Simulation Diagram</em></strong></p>
             </td>
         </tr>
     </table>
